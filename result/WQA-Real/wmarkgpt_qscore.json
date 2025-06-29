@@ -1,0 +1,5502 @@
+{
+    "02001.JPEG": {
+        "gt_score": 4.1,
+        "logits": {
+            "invisible": 13.265625,
+            "faint": 10.125,
+            "moderate": 6.16015625,
+            "visible": 7.9453125,
+            "obvious": 4.40625
+        },
+        "predict_score": 4.942676329465971
+    },
+    "02002.JPEG": {
+        "gt_score": 1.5,
+        "logits": {
+            "invisible": 6.71875,
+            "faint": 3.96875,
+            "moderate": 9.1875,
+            "visible": 12.6796875,
+            "obvious": 9.78125
+        },
+        "predict_score": 1.984734702424079
+    },
+    "02003.JPEG": {
+        "gt_score": 3.6,
+        "logits": {
+            "invisible": 11.40625,
+            "faint": 6.3359375,
+            "moderate": 5.18359375,
+            "visible": 13.1640625,
+            "obvious": 9.2109375
+        },
+        "predict_score": 2.4195815645066787
+    },
+    "02004.JPEG": {
+        "gt_score": 4.4,
+        "logits": {
+            "invisible": 14.0234375,
+            "faint": 9.625,
+            "moderate": 3.98828125,
+            "visible": 6.84375,
+            "obvious": 5.1796875
+        },
+        "predict_score": 4.984952288563669
+    },
+    "02005.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 12.9296875,
+            "faint": 6.01171875,
+            "moderate": 2.865234375,
+            "visible": 6.8046875,
+            "obvious": 4.88671875
+        },
+        "predict_score": 4.991108628503039
+    },
+    "02006.JPEG": {
+        "gt_score": 4.3,
+        "logits": {
+            "invisible": 17.046875,
+            "faint": 10.921875,
+            "moderate": 7.96875,
+            "visible": 7.76953125,
+            "obvious": 6.51171875
+        },
+        "predict_score": 4.99720411057782
+    },
+    "02007.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 14.3203125,
+            "faint": 7.2890625,
+            "moderate": 3.85546875,
+            "visible": 6.0,
+            "obvious": 4.02734375
+        },
+        "predict_score": 4.99819523649539
+    },
+    "02008.JPEG": {
+        "gt_score": 4.7,
+        "logits": {
+            "invisible": 15.4453125,
+            "faint": 7.28515625,
+            "moderate": 5.40625,
+            "visible": 5.60546875,
+            "obvious": 2.16015625
+        },
+        "predict_score": 4.99946041330113
+    },
+    "02009.JPEG": {
+        "gt_score": 2.2,
+        "logits": {
+            "invisible": 10.21875,
+            "faint": 4.48046875,
+            "moderate": 10.6953125,
+            "visible": 15.2421875,
+            "obvious": 13.5390625
+        },
+        "predict_score": 1.8734902544164318
+    },
+    "02010.JPEG": {
+        "gt_score": 2.6,
+        "logits": {
+            "invisible": 11.90625,
+            "faint": 9.2109375,
+            "moderate": 14.421875,
+            "visible": 15.21875,
+            "obvious": 10.828125
+        },
+        "predict_score": 2.3678638862401895
+    },
+    "02011.JPEG": {
+        "gt_score": 4.7,
+        "logits": {
+            "invisible": 16.078125,
+            "faint": 9.9609375,
+            "moderate": 2.580078125,
+            "visible": 6.93359375,
+            "obvious": 5.6171875
+        },
+        "predict_score": 4.997363837002414
+    },
+    "02012.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 15.25,
+            "faint": 9.4453125,
+            "moderate": 4.734375,
+            "visible": 6.78515625,
+            "obvious": 4.4609375
+        },
+        "predict_score": 4.996229977958575
+    },
+    "02013.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 15.453125,
+            "faint": 10.0,
+            "moderate": 5.12890625,
+            "visible": 6.8984375,
+            "obvious": 8.6171875
+        },
+        "predict_score": 4.990826897410251
+    },
+    "02014.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 14.1328125,
+            "faint": 7.5546875,
+            "moderate": 3.87109375,
+            "visible": 6.6015625,
+            "obvious": 4.80859375
+        },
+        "predict_score": 4.996581515348246
+    },
+    "02015.JPEG": {
+        "gt_score": 4.7,
+        "logits": {
+            "invisible": 15.4609375,
+            "faint": 9.9375,
+            "moderate": 4.21484375,
+            "visible": 7.9609375,
+            "obvious": 7.75390625
+        },
+        "predict_score": 4.992561164293424
+    },
+    "02016.JPEG": {
+        "gt_score": 4.6,
+        "logits": {
+            "invisible": 17.984375,
+            "faint": 9.84375,
+            "moderate": 3.67578125,
+            "visible": 9.4140625,
+            "obvious": 4.14453125
+        },
+        "predict_score": 4.999134877164158
+    },
+    "02017.JPEG": {
+        "gt_score": 4.2,
+        "logits": {
+            "invisible": 16.28125,
+            "faint": 10.9296875,
+            "moderate": 5.63671875,
+            "visible": 7.69921875,
+            "obvious": 7.08984375
+        },
+        "predict_score": 4.994270579289447
+    },
+    "02018.JPEG": {
+        "gt_score": 4.2,
+        "logits": {
+            "invisible": 15.78125,
+            "faint": 8.0,
+            "moderate": 4.1953125,
+            "visible": 8.28125,
+            "obvious": 7.40234375
+        },
+        "predict_score": 4.996989662209104
+    },
+    "02019.JPEG": {
+        "gt_score": 0.8,
+        "logits": {
+            "invisible": 10.4140625,
+            "faint": 3.658203125,
+            "moderate": 3.134765625,
+            "visible": 12.859375,
+            "obvious": 15.59375
+        },
+        "predict_score": 1.0817141101263592
+    },
+    "02020.JPEG": {
+        "gt_score": 3.7,
+        "logits": {
+            "invisible": 11.609375,
+            "faint": 8.9375,
+            "moderate": 7.5390625,
+            "visible": 8.8828125,
+            "obvious": 7.0859375
+        },
+        "predict_score": 4.7049395607649505
+    },
+    "02021.JPEG": {
+        "gt_score": 4.4,
+        "logits": {
+            "invisible": 12.4453125,
+            "faint": 5.625,
+            "moderate": 3.30078125,
+            "visible": 5.37890625,
+            "obvious": 4.5703125
+        },
+        "predict_score": 4.994627680753796
+    },
+    "02022.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 16.171875,
+            "faint": 11.578125,
+            "moderate": 6.6015625,
+            "visible": 8.78125,
+            "obvious": 7.8828125
+        },
+        "predict_score": 4.987032898092449
+    },
+    "02023.JPEG": {
+        "gt_score": 0.4,
+        "logits": {
+            "invisible": 8.1875,
+            "faint": 4.59375,
+            "moderate": 8.7734375,
+            "visible": 11.3984375,
+            "obvious": 12.328125
+        },
+        "predict_score": 1.3589993434818828
+    },
+    "02024.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 15.1171875,
+            "faint": 4.86328125,
+            "moderate": 2.666015625,
+            "visible": 4.9296875,
+            "obvious": 6.5390625
+        },
+        "predict_score": 4.999091571253099
+    },
+    "02025.JPEG": {
+        "gt_score": 4.2,
+        "logits": {
+            "invisible": 13.546875,
+            "faint": 9.8671875,
+            "moderate": 1.9052734375,
+            "visible": 7.76953125,
+            "obvious": 7.30078125
+        },
+        "predict_score": 4.958951453521598
+    },
+    "02026.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 16.703125,
+            "faint": 11.8125,
+            "moderate": 6.46484375,
+            "visible": 7.7265625,
+            "obvious": 5.51953125
+        },
+        "predict_score": 4.9920383644183906
+    },
+    "02027.JPEG": {
+        "gt_score": 2.3,
+        "logits": {
+            "invisible": 8.7890625,
+            "faint": 8.953125,
+            "moderate": 14.671875,
+            "visible": 11.984375,
+            "obvious": 10.03125
+        },
+        "predict_score": 2.9275711089416308
+    },
+    "02028.JPEG": {
+        "gt_score": 3.9,
+        "logits": {
+            "invisible": 10.8046875,
+            "faint": 10.3984375,
+            "moderate": 5.51953125,
+            "visible": 8.890625,
+            "obvious": 4.90625
+        },
+        "predict_score": 4.379779152722207
+    },
+    "02029.JPEG": {
+        "gt_score": 2.3,
+        "logits": {
+            "invisible": 10.9296875,
+            "faint": 13.6484375,
+            "moderate": 10.609375,
+            "visible": 8.9609375,
+            "obvious": 7.1953125
+        },
+        "predict_score": 3.9954929380516293
+    },
+    "02030.JPEG": {
+        "gt_score": 2.9,
+        "logits": {
+            "invisible": 9.5546875,
+            "faint": 9.3515625,
+            "moderate": 10.859375,
+            "visible": 10.9453125,
+            "obvious": 8.1171875
+        },
+        "predict_score": 2.8282132316587174
+    },
+    "02031.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 14.5234375,
+            "faint": 13.4140625,
+            "moderate": 5.80859375,
+            "visible": 6.703125,
+            "obvious": 6.28125
+        },
+        "predict_score": 4.750223586003652
+    },
+    "02032.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 11.3828125,
+            "faint": 8.15625,
+            "moderate": 10.8828125,
+            "visible": 10.1484375,
+            "obvious": 9.1796875
+        },
+        "predict_score": 3.7460875302267613
+    },
+    "02033.JPEG": {
+        "gt_score": 3.8,
+        "logits": {
+            "invisible": 8.84375,
+            "faint": 8.484375,
+            "moderate": 11.3515625,
+            "visible": 8.15625,
+            "obvious": 7.15234375
+        },
+        "predict_score": 3.124580900164156
+    },
+    "02034.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 16.703125,
+            "faint": 10.65625,
+            "moderate": 4.58984375,
+            "visible": 8.8203125,
+            "obvious": 5.9765625
+        },
+        "predict_score": 4.996414389236733
+    },
+    "02035.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 13.828125,
+            "faint": 9.4375,
+            "moderate": 1.1435546875,
+            "visible": 6.07421875,
+            "obvious": 3.31640625
+        },
+        "predict_score": 4.986379820840211
+    },
+    "02036.JPEG": {
+        "gt_score": 2.5,
+        "logits": {
+            "invisible": 10.59375,
+            "faint": 11.578125,
+            "moderate": 10.6875,
+            "visible": 10.1328125,
+            "obvious": 7.875
+        },
+        "predict_score": 3.7153134801967918
+    },
+    "02037.JPEG": {
+        "gt_score": 2.2,
+        "logits": {
+            "invisible": 9.109375,
+            "faint": 9.125,
+            "moderate": 11.0078125,
+            "visible": 11.5703125,
+            "obvious": 8.15625
+        },
+        "predict_score": 2.5444944945248045
+    },
+    "02038.JPEG": {
+        "gt_score": 0.4,
+        "logits": {
+            "invisible": 8.9609375,
+            "faint": 4.77734375,
+            "moderate": 4.07421875,
+            "visible": 11.359375,
+            "obvious": 14.671875
+        },
+        "predict_score": 1.0479554627528709
+    },
+    "02039.JPEG": {
+        "gt_score": 4.3,
+        "logits": {
+            "invisible": 16.03125,
+            "faint": 10.0078125,
+            "moderate": 4.015625,
+            "visible": 7.27734375,
+            "obvious": 4.63671875
+        },
+        "predict_score": 4.997055656936742
+    },
+    "02040.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 10.3359375,
+            "faint": 11.328125,
+            "moderate": 12.953125,
+            "visible": 12.21875,
+            "obvious": 8.6953125
+        },
+        "predict_score": 2.906351685097727
+    },
+    "02041.JPEG": {
+        "gt_score": 3.7,
+        "logits": {
+            "invisible": 10.4140625,
+            "faint": 12.3203125,
+            "moderate": 11.0703125,
+            "visible": 9.1796875,
+            "obvious": 6.1328125
+        },
+        "predict_score": 3.844274308526573
+    },
+    "02042.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 14.34375,
+            "faint": 7.78515625,
+            "moderate": 1.013671875,
+            "visible": 5.671875,
+            "obvious": 5.7109375
+        },
+        "predict_score": 4.997356883664548
+    },
+    "02043.JPEG": {
+        "gt_score": 4.8,
+        "logits": {
+            "invisible": 14.90625,
+            "faint": 12.0234375,
+            "moderate": 4.8046875,
+            "visible": 7.94140625,
+            "obvious": 5.54296875
+        },
+        "predict_score": 4.9439609980245685
+    },
+    "02044.JPEG": {
+        "gt_score": 3.0,
+        "logits": {
+            "invisible": 17.140625,
+            "faint": 7.52734375,
+            "moderate": 1.0126953125,
+            "visible": 10.28125,
+            "obvious": 8.3125
+        },
+        "predict_score": 4.996202842620714
+    },
+    "02045.JPEG": {
+        "gt_score": 4.2,
+        "logits": {
+            "invisible": 17.578125,
+            "faint": 9.4609375,
+            "moderate": 4.33984375,
+            "visible": 7.953125,
+            "obvious": 6.9140625
+        },
+        "predict_score": 4.999406653273226
+    },
+    "02046.JPEG": {
+        "gt_score": 4.8,
+        "logits": {
+            "invisible": 11.1171875,
+            "faint": 9.828125,
+            "moderate": 6.75390625,
+            "visible": 6.6640625,
+            "obvious": 4.84765625
+        },
+        "predict_score": 4.736134062390059
+    },
+    "02047.JPEG": {
+        "gt_score": 2.3,
+        "logits": {
+            "invisible": 8.9140625,
+            "faint": 7.66015625,
+            "moderate": 10.0,
+            "visible": 13.84375,
+            "obvious": 12.359375
+        },
+        "predict_score": 1.857304113467071
+    },
+    "02048.JPEG": {
+        "gt_score": 1.7,
+        "logits": {
+            "invisible": 8.796875,
+            "faint": 5.71484375,
+            "moderate": 9.4140625,
+            "visible": 11.890625,
+            "obvious": 10.1953125
+        },
+        "predict_score": 2.030907602866359
+    },
+    "02049.JPEG": {
+        "gt_score": 3.2,
+        "logits": {
+            "invisible": 12.9921875,
+            "faint": 12.6953125,
+            "moderate": 11.375,
+            "visible": 8.8984375,
+            "obvious": 6.25
+        },
+        "predict_score": 4.390237429650554
+    },
+    "02050.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 10.0625,
+            "faint": 9.84375,
+            "moderate": 12.4921875,
+            "visible": 11.703125,
+            "obvious": 7.6484375
+        },
+        "predict_score": 2.862345105076135
+    },
+    "02051.JPEG": {
+        "gt_score": 4.4,
+        "logits": {
+            "invisible": 9.546875,
+            "faint": 5.359375,
+            "moderate": 8.21875,
+            "visible": 12.75,
+            "obvious": 11.0859375
+        },
+        "predict_score": 1.9553227155781374
+    },
+    "02052.JPEG": {
+        "gt_score": 3.9,
+        "logits": {
+            "invisible": 13.2890625,
+            "faint": 10.6484375,
+            "moderate": 7.34375,
+            "visible": 7.84375,
+            "obvious": 8.0546875
+        },
+        "predict_score": 4.8977253195725154
+    },
+    "02053.JPEG": {
+        "gt_score": 3.8,
+        "logits": {
+            "invisible": 14.3671875,
+            "faint": 9.484375,
+            "moderate": 3.0078125,
+            "visible": 4.96484375,
+            "obvious": 6.7109375
+        },
+        "predict_score": 4.990339762263447
+    },
+    "02054.JPEG": {
+        "gt_score": 2.7,
+        "logits": {
+            "invisible": 5.2265625,
+            "faint": 1.3701171875,
+            "moderate": 2.29296875,
+            "visible": 13.65625,
+            "obvious": 15.4453125
+        },
+        "predict_score": 1.1433132238740955
+    },
+    "02055.JPEG": {
+        "gt_score": 0.5,
+        "logits": {
+            "invisible": 8.3515625,
+            "faint": 7.25390625,
+            "moderate": 2.46875,
+            "visible": 9.5,
+            "obvious": 9.4375
+        },
+        "predict_score": 2.0949924284857655
+    },
+    "02056.JPEG": {
+        "gt_score": 2.0,
+        "logits": {
+            "invisible": 7.54296875,
+            "faint": 8.0703125,
+            "moderate": 12.1796875,
+            "visible": 9.6484375,
+            "obvious": 7.88671875
+        },
+        "predict_score": 2.9364877961398452
+    },
+    "02057.JPEG": {
+        "gt_score": 2.5,
+        "logits": {
+            "invisible": 7.34765625,
+            "faint": 7.1484375,
+            "moderate": 12.609375,
+            "visible": 14.25,
+            "obvious": 8.09375
+        },
+        "predict_score": 2.1639682824960618
+    },
+    "02058.JPEG": {
+        "gt_score": 0.7,
+        "logits": {
+            "invisible": 6.3359375,
+            "faint": 0.026275634765625,
+            "moderate": 3.7890625,
+            "visible": 11.671875,
+            "obvious": 14.125
+        },
+        "predict_score": 1.0807645974574047
+    },
+    "02059.JPEG": {
+        "gt_score": 3.9,
+        "logits": {
+            "invisible": 14.0703125,
+            "faint": 9.609375,
+            "moderate": 5.69140625,
+            "visible": 6.80078125,
+            "obvious": 5.75390625
+        },
+        "predict_score": 4.985111357594281
+    },
+    "02060.JPEG": {
+        "gt_score": 4.2,
+        "logits": {
+            "invisible": 17.734375,
+            "faint": 8.09375,
+            "moderate": 5.05078125,
+            "visible": 7.91796875,
+            "obvious": 5.21875
+        },
+        "predict_score": 4.999750472626102
+    },
+    "02061.JPEG": {
+        "gt_score": 4.6,
+        "logits": {
+            "invisible": 18.0625,
+            "faint": 10.6171875,
+            "moderate": 7.1484375,
+            "visible": 8.5,
+            "obvious": 4.81640625
+        },
+        "predict_score": 4.999161971429376
+    },
+    "02062.JPEG": {
+        "gt_score": 4.2,
+        "logits": {
+            "invisible": 14.3984375,
+            "faint": 6.3828125,
+            "moderate": 1.2255859375,
+            "visible": 5.16796875,
+            "obvious": 3.07421875
+        },
+        "predict_score": 4.999323904856993
+    },
+    "02063.JPEG": {
+        "gt_score": 3.9,
+        "logits": {
+            "invisible": 9.625,
+            "faint": 10.734375,
+            "moderate": 11.140625,
+            "visible": 10.5078125,
+            "obvious": 6.44140625
+        },
+        "predict_score": 3.229258697990602
+    },
+    "02064.JPEG": {
+        "gt_score": 2.2,
+        "logits": {
+            "invisible": 9.796875,
+            "faint": 9.625,
+            "moderate": 12.5390625,
+            "visible": 12.484375,
+            "obvious": 8.5078125
+        },
+        "predict_score": 2.6163761340042258
+    },
+    "02065.JPEG": {
+        "gt_score": 5.0,
+        "logits": {
+            "invisible": 14.9921875,
+            "faint": 11.2734375,
+            "moderate": 6.50390625,
+            "visible": 7.62890625,
+            "obvious": 7.5546875
+        },
+        "predict_score": 4.971791387445107
+    },
+    "02066.JPEG": {
+        "gt_score": 2.9,
+        "logits": {
+            "invisible": 11.3671875,
+            "faint": 10.7734375,
+            "moderate": 10.0390625,
+            "visible": 8.0859375,
+            "obvious": 5.65625
+        },
+        "predict_score": 4.349781639155093
+    },
+    "02067.JPEG": {
+        "gt_score": 2.4,
+        "logits": {
+            "invisible": 13.4296875,
+            "faint": 9.5234375,
+            "moderate": 5.1875,
+            "visible": 9.984375,
+            "obvious": 5.8671875
+        },
+        "predict_score": 4.887532463378427
+    },
+    "02068.JPEG": {
+        "gt_score": 4.6,
+        "logits": {
+            "invisible": 14.671875,
+            "faint": 8.953125,
+            "moderate": 2.203125,
+            "visible": 8.8359375,
+            "obvious": 5.6953125
+        },
+        "predict_score": 4.987520155755717
+    },
+    "02069.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 15.1953125,
+            "faint": 7.2734375,
+            "moderate": 5.01953125,
+            "visible": 6.48046875,
+            "obvious": 4.5546875
+        },
+        "predict_score": 4.9989736294757385
+    },
+    "02070.JPEG": {
+        "gt_score": 3.8,
+        "logits": {
+            "invisible": 16.03125,
+            "faint": 10.4375,
+            "moderate": 6.96875,
+            "visible": 8.84375,
+            "obvious": 4.4921875
+        },
+        "predict_score": 4.9937688685519905
+    },
+    "02071.JPEG": {
+        "gt_score": 4.9,
+        "logits": {
+            "invisible": 15.6640625,
+            "faint": 10.4921875,
+            "moderate": 7.83984375,
+            "visible": 8.125,
+            "obvious": 7.421875
+        },
+        "predict_score": 4.990939536107486
+    },
+    "02072.JPEG": {
+        "gt_score": 3.9,
+        "logits": {
+            "invisible": 11.6015625,
+            "faint": 11.4453125,
+            "moderate": 12.78125,
+            "visible": 9.34375,
+            "obvious": 5.1796875
+        },
+        "predict_score": 3.5268579008652123
+    },
+    "02073.JPEG": {
+        "gt_score": 2.4,
+        "logits": {
+            "invisible": 9.15625,
+            "faint": 11.4453125,
+            "moderate": 12.6328125,
+            "visible": 9.796875,
+            "obvious": 7.41015625
+        },
+        "predict_score": 3.212407370991909
+    },
+    "02074.JPEG": {
+        "gt_score": 1.5,
+        "logits": {
+            "invisible": 9.6015625,
+            "faint": 2.748046875,
+            "moderate": 4.9140625,
+            "visible": 14.7890625,
+            "obvious": 15.8515625
+        },
+        "predict_score": 1.2622215092671416
+    },
+    "02075.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 15.71875,
+            "faint": 8.9453125,
+            "moderate": 3.806640625,
+            "visible": 5.8984375,
+            "obvious": 3.158203125
+        },
+        "predict_score": 4.998667395979911
+    },
+    "02076.JPEG": {
+        "gt_score": 2.6,
+        "logits": {
+            "invisible": 8.1796875,
+            "faint": 8.296875,
+            "moderate": 15.2265625,
+            "visible": 12.703125,
+            "obvious": 11.359375
+        },
+        "predict_score": 2.891836182320087
+    },
+    "02077.JPEG": {
+        "gt_score": 3.5,
+        "logits": {
+            "invisible": 9.6484375,
+            "faint": 4.41015625,
+            "moderate": 10.59375,
+            "visible": 12.921875,
+            "obvious": 11.515625
+        },
+        "predict_score": 1.9756978166605252
+    },
+    "02078.JPEG": {
+        "gt_score": 1.6,
+        "logits": {
+            "invisible": 9.0,
+            "faint": 8.7734375,
+            "moderate": 15.1953125,
+            "visible": 11.8671875,
+            "obvious": 7.84765625
+        },
+        "predict_score": 2.9697693886732393
+    },
+    "02079.JPEG": {
+        "gt_score": 4.3,
+        "logits": {
+            "invisible": 14.734375,
+            "faint": 10.171875,
+            "moderate": 4.0390625,
+            "visible": 8.8203125,
+            "obvious": 6.88671875
+        },
+        "predict_score": 4.980121880153554
+    },
+    "02080.JPEG": {
+        "gt_score": 4.9,
+        "logits": {
+            "invisible": 13.6328125,
+            "faint": 8.8828125,
+            "moderate": 4.57421875,
+            "visible": 7.2578125,
+            "obvious": 7.0390625
+        },
+        "predict_score": 4.9807569339168385
+    },
+    "02081.JPEG": {
+        "gt_score": 3.3,
+        "logits": {
+            "invisible": 14.4296875,
+            "faint": 9.890625,
+            "moderate": 5.53515625,
+            "visible": 7.609375,
+            "obvious": 6.578125
+        },
+        "predict_score": 4.984403449853803
+    },
+    "02082.JPEG": {
+        "gt_score": 3.9,
+        "logits": {
+            "invisible": 14.484375,
+            "faint": 7.77734375,
+            "moderate": 3.1484375,
+            "visible": 5.7109375,
+            "obvious": 4.64453125
+        },
+        "predict_score": 4.998079096511942
+    },
+    "02083.JPEG": {
+        "gt_score": 0.4,
+        "logits": {
+            "invisible": 7.171875,
+            "faint": -0.1778564453125,
+            "moderate": -0.90869140625,
+            "visible": 10.265625,
+            "obvious": 14.7265625
+        },
+        "predict_score": 1.0134846255810226
+    },
+    "02084.JPEG": {
+        "gt_score": 4.0,
+        "logits": {
+            "invisible": 10.03125,
+            "faint": 9.46875,
+            "moderate": 8.9296875,
+            "visible": 8.9609375,
+            "obvious": 6.8671875
+        },
+        "predict_score": 3.9366432238425935
+    },
+    "02085.JPEG": {
+        "gt_score": 0.5,
+        "logits": {
+            "invisible": 8.7734375,
+            "faint": 2.505859375,
+            "moderate": 0.08734130859375,
+            "visible": 11.671875,
+            "obvious": 15.3515625
+        },
+        "predict_score": 1.0300022701395983
+    },
+    "02086.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 9.9296875,
+            "faint": 3.34375,
+            "moderate": 4.1328125,
+            "visible": 12.6875,
+            "obvious": 15.6875
+        },
+        "predict_score": 1.0593103512450908
+    },
+    "02087.JPEG": {
+        "gt_score": 1.5,
+        "logits": {
+            "invisible": 8.671875,
+            "faint": 5.953125,
+            "moderate": 12.3515625,
+            "visible": 14.1953125,
+            "obvious": 12.90625
+        },
+        "predict_score": 1.927119236011523
+    },
+    "02088.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 15.34375,
+            "faint": 12.5625,
+            "moderate": 6.96484375,
+            "visible": 9.5859375,
+            "obvious": 6.5390625
+        },
+        "predict_score": 4.93196192699022
+    },
+    "02089.JPEG": {
+        "gt_score": 4.8,
+        "logits": {
+            "invisible": 16.015625,
+            "faint": 9.4296875,
+            "moderate": 4.53515625,
+            "visible": 8.5703125,
+            "obvious": 4.72265625
+        },
+        "predict_score": 4.99680369516636
+    },
+    "02090.JPEG": {
+        "gt_score": 4.4,
+        "logits": {
+            "invisible": 14.0390625,
+            "faint": 8.40625,
+            "moderate": 5.453125,
+            "visible": 7.0,
+            "obvious": 5.74609375
+        },
+        "predict_score": 4.992453073593719
+    },
+    "02091.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 14.34375,
+            "faint": 9.3515625,
+            "moderate": 5.36328125,
+            "visible": 6.109375,
+            "obvious": 5.8046875
+        },
+        "predict_score": 4.991441845479681
+    },
+    "02092.JPEG": {
+        "gt_score": 3.4,
+        "logits": {
+            "invisible": 11.1171875,
+            "faint": 9.2578125,
+            "moderate": 11.9609375,
+            "visible": 12.8671875,
+            "obvious": 10.375
+        },
+        "predict_score": 2.531383508555572
+    },
+    "02093.JPEG": {
+        "gt_score": 2.5,
+        "logits": {
+            "invisible": 7.953125,
+            "faint": 6.53125,
+            "moderate": 7.3515625,
+            "visible": 12.140625,
+            "obvious": 10.2109375
+        },
+        "predict_score": 1.9283548555168726
+    },
+    "02094.JPEG": {
+        "gt_score": 0.5,
+        "logits": {
+            "invisible": 8.9765625,
+            "faint": 1.212890625,
+            "moderate": 6.2734375,
+            "visible": 12.8203125,
+            "obvious": 12.2890625
+        },
+        "predict_score": 1.675812481947586
+    },
+    "02095.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 16.796875,
+            "faint": 10.0546875,
+            "moderate": 10.59375,
+            "visible": 11.4609375,
+            "obvious": 6.67578125
+        },
+        "predict_score": 4.980325225425612
+    },
+    "02096.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 11.0625,
+            "faint": 11.2578125,
+            "moderate": 8.859375,
+            "visible": 9.8046875,
+            "obvious": 8.0625
+        },
+        "predict_score": 4.0645178101072235
+    },
+    "02097.JPEG": {
+        "gt_score": 2.3,
+        "logits": {
+            "invisible": 11.828125,
+            "faint": 11.3359375,
+            "moderate": 12.03125,
+            "visible": 13.0,
+            "obvious": 8.9375
+        },
+        "predict_score": 2.8810745824051742
+    },
+    "02098.JPEG": {
+        "gt_score": 3.4,
+        "logits": {
+            "invisible": 12.1796875,
+            "faint": 8.4609375,
+            "moderate": 5.40234375,
+            "visible": 4.9140625,
+            "obvious": 1.8896484375
+        },
+        "predict_score": 4.971956714100562
+    },
+    "02099.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 13.9921875,
+            "faint": 10.34375,
+            "moderate": 5.171875,
+            "visible": 7.8046875,
+            "obvious": 4.7890625
+        },
+        "predict_score": 4.9680114545826966
+    },
+    "02100.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 10.671875,
+            "faint": 11.171875,
+            "moderate": 10.546875,
+            "visible": 10.609375,
+            "obvious": 8.6015625
+        },
+        "predict_score": 3.5345082396696235
+    },
+    "02101.JPEG": {
+        "gt_score": 2.7,
+        "logits": {
+            "invisible": 11.5,
+            "faint": 12.3125,
+            "moderate": 9.9453125,
+            "visible": 8.4375,
+            "obvious": 5.84375
+        },
+        "predict_score": 4.194795327613535
+    },
+    "02102.JPEG": {
+        "gt_score": 4.2,
+        "logits": {
+            "invisible": 13.875,
+            "faint": 9.21875,
+            "moderate": 4.2265625,
+            "visible": 7.8125,
+            "obvious": 4.4296875
+        },
+        "predict_score": 4.9832673255787014
+    },
+    "02103.JPEG": {
+        "gt_score": 1.6,
+        "logits": {
+            "invisible": 9.0546875,
+            "faint": 8.4609375,
+            "moderate": 13.6328125,
+            "visible": 14.4921875,
+            "obvious": 10.6328125
+        },
+        "predict_score": 2.2895423958875822
+    },
+    "02104.JPEG": {
+        "gt_score": 0.1,
+        "logits": {
+            "invisible": 7.3671875,
+            "faint": 5.41015625,
+            "moderate": 14.7578125,
+            "visible": 14.2890625,
+            "obvious": 9.9296875
+        },
+        "predict_score": 2.608155475031599
+    },
+    "02105.JPEG": {
+        "gt_score": 0.3,
+        "logits": {
+            "invisible": 11.1640625,
+            "faint": 5.8125,
+            "moderate": 4.25390625,
+            "visible": 10.8046875,
+            "obvious": 15.859375
+        },
+        "predict_score": 1.042419142202579
+    },
+    "02106.JPEG": {
+        "gt_score": 0.5,
+        "logits": {
+            "invisible": 7.12109375,
+            "faint": 3.693359375,
+            "moderate": 4.71484375,
+            "visible": 12.6640625,
+            "obvious": 14.5078125
+        },
+        "predict_score": 1.1388127839014326
+    },
+    "02107.JPEG": {
+        "gt_score": 5.0,
+        "logits": {
+            "invisible": 14.390625,
+            "faint": 7.875,
+            "moderate": 5.5703125,
+            "visible": 5.34765625,
+            "obvious": 2.6640625
+        },
+        "predict_score": 4.997841288024346
+    },
+    "02108.JPEG": {
+        "gt_score": 4.8,
+        "logits": {
+            "invisible": 12.953125,
+            "faint": 6.859375,
+            "moderate": 4.19140625,
+            "visible": 12.2421875,
+            "obvious": 14.03125
+        },
+        "predict_score": 2.0147779300349655
+    },
+    "02109.JPEG": {
+        "gt_score": 4.8,
+        "logits": {
+            "invisible": 19.9375,
+            "faint": 8.7890625,
+            "moderate": 4.15234375,
+            "visible": 8.5078125,
+            "obvious": 4.67578125
+        },
+        "predict_score": 4.999951778600214
+    },
+    "02110.JPEG": {
+        "gt_score": 0.3,
+        "logits": {
+            "invisible": 5.7109375,
+            "faint": 3.041015625,
+            "moderate": 8.015625,
+            "visible": 12.8046875,
+            "obvious": 10.5859375
+        },
+        "predict_score": 1.912501811898751
+    },
+    "02111.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 12.84375,
+            "faint": 6.890625,
+            "moderate": 2.806640625,
+            "visible": 6.7265625,
+            "obvious": 6.828125
+        },
+        "predict_score": 4.981077441551222
+    },
+    "02112.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 10.9296875,
+            "faint": 7.67578125,
+            "moderate": 6.625,
+            "visible": 7.58984375,
+            "obvious": 4.640625
+        },
+        "predict_score": 4.835338473704163
+    },
+    "02113.JPEG": {
+        "gt_score": 2.5,
+        "logits": {
+            "invisible": 8.2265625,
+            "faint": 2.013671875,
+            "moderate": 3.826171875,
+            "visible": 15.1796875,
+            "obvious": 16.765625
+        },
+        "predict_score": 1.1705827623735798
+    },
+    "02114.JPEG": {
+        "gt_score": 4.6,
+        "logits": {
+            "invisible": 15.0703125,
+            "faint": 7.2890625,
+            "moderate": 3.3046875,
+            "visible": 8.078125,
+            "obvious": 5.0078125
+        },
+        "predict_score": 4.996643931674348
+    },
+    "02115.JPEG": {
+        "gt_score": 0.5,
+        "logits": {
+            "invisible": 11.4140625,
+            "faint": 8.0546875,
+            "moderate": 8.90625,
+            "visible": 12.046875,
+            "obvious": 9.125
+        },
+        "predict_score": 2.9835944833742425
+    },
+    "02116.JPEG": {
+        "gt_score": 4.6,
+        "logits": {
+            "invisible": 14.3671875,
+            "faint": 10.0390625,
+            "moderate": 5.33203125,
+            "visible": 6.65234375,
+            "obvious": 7.0234375
+        },
+        "predict_score": 4.982890939052804
+    },
+    "02117.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 13.2578125,
+            "faint": 7.84765625,
+            "moderate": 2.220703125,
+            "visible": 4.76171875,
+            "obvious": 5.18359375
+        },
+        "predict_score": 4.993669879808451
+    },
+    "02118.JPEG": {
+        "gt_score": 1.5,
+        "logits": {
+            "invisible": 11.6484375,
+            "faint": 5.328125,
+            "moderate": 5.671875,
+            "visible": 14.125,
+            "obvious": 16.140625
+        },
+        "predict_score": 1.155650240647258
+    },
+    "02119.JPEG": {
+        "gt_score": 2.3,
+        "logits": {
+            "invisible": 9.3125,
+            "faint": 2.75390625,
+            "moderate": 6.7421875,
+            "visible": 13.8125,
+            "obvious": 12.4296875
+        },
+        "predict_score": 1.8284324428399232
+    },
+    "02120.JPEG": {
+        "gt_score": 0.5,
+        "logits": {
+            "invisible": 7.42578125,
+            "faint": 3.341796875,
+            "moderate": 5.76171875,
+            "visible": 16.765625,
+            "obvious": 16.625
+        },
+        "predict_score": 1.5352762961018989
+    },
+    "02121.JPEG": {
+        "gt_score": 3.6,
+        "logits": {
+            "invisible": 11.421875,
+            "faint": 11.7734375,
+            "moderate": 7.6015625,
+            "visible": 10.7734375,
+            "obvious": 7.78515625
+        },
+        "predict_score": 3.9509889572756776
+    },
+    "02122.JPEG": {
+        "gt_score": 3.0,
+        "logits": {
+            "invisible": 11.0859375,
+            "faint": 11.03125,
+            "moderate": 12.4140625,
+            "visible": 8.4765625,
+            "obvious": 6.68359375
+        },
+        "predict_score": 3.4905999467151334
+    },
+    "02123.JPEG": {
+        "gt_score": 3.4,
+        "logits": {
+            "invisible": 14.6484375,
+            "faint": 7.3046875,
+            "moderate": 3.8671875,
+            "visible": 5.65625,
+            "obvious": 5.578125
+        },
+        "predict_score": 4.9984799305760514
+    },
+    "02124.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 11.7421875,
+            "faint": 9.125,
+            "moderate": 5.43359375,
+            "visible": 6.81640625,
+            "obvious": 5.58984375
+        },
+        "predict_score": 4.901371684212261
+    },
+    "02125.JPEG": {
+        "gt_score": 2.8,
+        "logits": {
+            "invisible": 9.59375,
+            "faint": 8.5859375,
+            "moderate": 14.1875,
+            "visible": 15.9375,
+            "obvious": 11.5
+        },
+        "predict_score": 2.141839172369342
+    },
+    "02126.JPEG": {
+        "gt_score": 0.3,
+        "logits": {
+            "invisible": 8.3671875,
+            "faint": 2.564453125,
+            "moderate": 2.990234375,
+            "visible": 14.6875,
+            "obvious": 14.3046875
+        },
+        "predict_score": 1.5982052763237384
+    },
+    "02127.JPEG": {
+        "gt_score": 2.7,
+        "logits": {
+            "invisible": 8.6953125,
+            "faint": 9.515625,
+            "moderate": 14.7890625,
+            "visible": 13.4296875,
+            "obvious": 8.28125
+        },
+        "predict_score": 2.8023499119441975
+    },
+    "02128.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 11.375,
+            "faint": 5.94140625,
+            "moderate": 1.607421875,
+            "visible": 6.62890625,
+            "obvious": 5.265625
+        },
+        "predict_score": 4.961169005092852
+    },
+    "02129.JPEG": {
+        "gt_score": 4.8,
+        "logits": {
+            "invisible": 11.59375,
+            "faint": 9.921875,
+            "moderate": 5.65625,
+            "visible": 7.9140625,
+            "obvious": 6.8984375
+        },
+        "predict_score": 4.750660617163653
+    },
+    "02130.JPEG": {
+        "gt_score": 4.6,
+        "logits": {
+            "invisible": 15.09375,
+            "faint": 6.6171875,
+            "moderate": 5.22265625,
+            "visible": 4.75,
+            "obvious": 2.08984375
+        },
+        "predict_score": 4.999582950689712
+    },
+    "02131.JPEG": {
+        "gt_score": 3.5,
+        "logits": {
+            "invisible": 18.0625,
+            "faint": 11.8828125,
+            "moderate": 8.4453125,
+            "visible": 9.34375,
+            "obvious": 6.6953125
+        },
+        "predict_score": 4.997265350293094
+    },
+    "02132.JPEG": {
+        "gt_score": 2.5,
+        "logits": {
+            "invisible": 9.3203125,
+            "faint": 5.95703125,
+            "moderate": 12.3671875,
+            "visible": 12.078125,
+            "obvious": 7.296875
+        },
+        "predict_score": 2.6315295628118673
+    },
+    "02133.JPEG": {
+        "gt_score": 2.8,
+        "logits": {
+            "invisible": 13.796875,
+            "faint": 12.6171875,
+            "moderate": 10.7421875,
+            "visible": 11.6171875,
+            "obvious": 8.671875
+        },
+        "predict_score": 4.481067655985061
+    },
+    "02134.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 13.609375,
+            "faint": 11.1015625,
+            "moderate": 6.00390625,
+            "visible": 5.9921875,
+            "obvious": 7.01953125
+        },
+        "predict_score": 4.9174999010458365
+    },
+    "02135.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 8.4609375,
+            "faint": 8.0546875,
+            "moderate": 9.9453125,
+            "visible": 15.5859375,
+            "obvious": 12.9375
+        },
+        "predict_score": 1.940757195478682
+    },
+    "02136.JPEG": {
+        "gt_score": 4.2,
+        "logits": {
+            "invisible": 13.203125,
+            "faint": 6.703125,
+            "moderate": 2.8125,
+            "visible": 2.08984375,
+            "obvious": 4.4765625
+        },
+        "predict_score": 4.9977453655538095
+    },
+    "02137.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 8.9375,
+            "faint": 7.6875,
+            "moderate": 8.5,
+            "visible": 9.3125,
+            "obvious": 9.65625
+        },
+        "predict_score": 2.3983796213927944
+    },
+    "02138.JPEG": {
+        "gt_score": 3.9,
+        "logits": {
+            "invisible": 13.796875,
+            "faint": 9.28125,
+            "moderate": 2.541015625,
+            "visible": 6.83984375,
+            "obvious": 6.19140625
+        },
+        "predict_score": 4.984384350204292
+    },
+    "02139.JPEG": {
+        "gt_score": 3.4,
+        "logits": {
+            "invisible": 10.171875,
+            "faint": 9.6953125,
+            "moderate": 12.0234375,
+            "visible": 14.1171875,
+            "obvious": 12.6953125
+        },
+        "predict_score": 1.9742247656894787
+    },
+    "02140.JPEG": {
+        "gt_score": 3.8,
+        "logits": {
+            "invisible": 9.328125,
+            "faint": 12.1015625,
+            "moderate": 8.46875,
+            "visible": 11.2734375,
+            "obvious": 6.9609375
+        },
+        "predict_score": 3.441573300459186
+    },
+    "02141.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 10.734375,
+            "faint": 12.1640625,
+            "moderate": 14.4140625,
+            "visible": 9.765625,
+            "obvious": 5.19140625
+        },
+        "predict_score": 3.1281120250122627
+    },
+    "02142.JPEG": {
+        "gt_score": 3.8,
+        "logits": {
+            "invisible": 11.5546875,
+            "faint": 9.8046875,
+            "moderate": 12.625,
+            "visible": 12.9375,
+            "obvious": 10.3125
+        },
+        "predict_score": 2.7143034829842425
+    },
+    "02143.JPEG": {
+        "gt_score": 4.9,
+        "logits": {
+            "invisible": 13.921875,
+            "faint": 7.5234375,
+            "moderate": 3.1640625,
+            "visible": 5.14453125,
+            "obvious": 3.43359375
+        },
+        "predict_score": 4.997723533272714
+    },
+    "02144.JPEG": {
+        "gt_score": 3.5,
+        "logits": {
+            "invisible": 9.21875,
+            "faint": 7.53515625,
+            "moderate": 7.859375,
+            "visible": 11.859375,
+            "obvious": 10.5390625
+        },
+        "predict_score": 1.9939424829267018
+    },
+    "02145.JPEG": {
+        "gt_score": 4.0,
+        "logits": {
+            "invisible": 13.625,
+            "faint": 8.40625,
+            "moderate": 6.4765625,
+            "visible": 8.8359375,
+            "obvious": 7.58203125
+        },
+        "predict_score": 4.95924354398823
+    },
+    "02146.JPEG": {
+        "gt_score": 4.8,
+        "logits": {
+            "invisible": 15.796875,
+            "faint": 4.6796875,
+            "moderate": 2.376953125,
+            "visible": 5.96484375,
+            "obvious": 6.69921875
+        },
+        "predict_score": 4.999373466683434
+    },
+    "02147.JPEG": {
+        "gt_score": 4.9,
+        "logits": {
+            "invisible": 14.4296875,
+            "faint": 8.2109375,
+            "moderate": 3.54296875,
+            "visible": 6.3046875,
+            "obvious": 6.13671875
+        },
+        "predict_score": 4.996091633700652
+    },
+    "02148.JPEG": {
+        "gt_score": 2.1,
+        "logits": {
+            "invisible": 12.3671875,
+            "faint": 10.1953125,
+            "moderate": 9.1796875,
+            "visible": 8.7890625,
+            "obvious": 6.35546875
+        },
+        "predict_score": 4.755319600776236
+    },
+    "02149.JPEG": {
+        "gt_score": 2.8,
+        "logits": {
+            "invisible": 14.8671875,
+            "faint": 7.125,
+            "moderate": 6.28515625,
+            "visible": 6.96875,
+            "obvious": 7.13671875
+        },
+        "predict_score": 4.9963253314587055
+    },
+    "02150.JPEG": {
+        "gt_score": 4.9,
+        "logits": {
+            "invisible": 17.75,
+            "faint": 8.390625,
+            "moderate": 2.134765625,
+            "visible": 7.984375,
+            "obvious": 6.5078125
+        },
+        "predict_score": 4.999688954234008
+    },
+    "02151.JPEG": {
+        "gt_score": 4.8,
+        "logits": {
+            "invisible": 17.15625,
+            "faint": 9.0859375,
+            "moderate": 4.44921875,
+            "visible": 7.1328125,
+            "obvious": 5.6171875
+        },
+        "predict_score": 4.999509423583374
+    },
+    "02152.JPEG": {
+        "gt_score": 0.6,
+        "logits": {
+            "invisible": 12.4140625,
+            "faint": 8.84375,
+            "moderate": 7.44921875,
+            "visible": 8.71875,
+            "obvious": 7.04296875
+        },
+        "predict_score": 4.872986568210837
+    },
+    "02153.JPEG": {
+        "gt_score": 1.8,
+        "logits": {
+            "invisible": 11.9296875,
+            "faint": 7.515625,
+            "moderate": 12.328125,
+            "visible": 12.2890625,
+            "obvious": 8.4296875
+        },
+        "predict_score": 3.1309906124864706
+    },
+    "02154.JPEG": {
+        "gt_score": 2.6,
+        "logits": {
+            "invisible": 9.9140625,
+            "faint": 8.6171875,
+            "moderate": 13.0859375,
+            "visible": 15.6171875,
+            "obvious": 10.0703125
+        },
+        "predict_score": 2.0804355050940306
+    },
+    "02155.JPEG": {
+        "gt_score": 4.6,
+        "logits": {
+            "invisible": 11.6015625,
+            "faint": 8.640625,
+            "moderate": 6.2890625,
+            "visible": 5.484375,
+            "obvious": 1.4990234375
+        },
+        "predict_score": 4.935400476384184
+    },
+    "02156.JPEG": {
+        "gt_score": 4.4,
+        "logits": {
+            "invisible": 7.29296875,
+            "faint": 11.40625,
+            "moderate": 12.484375,
+            "visible": 7.90625,
+            "obvious": 4.6953125
+        },
+        "predict_score": 3.250838370551406
+    },
+    "02157.JPEG": {
+        "gt_score": 2.6,
+        "logits": {
+            "invisible": 10.59375,
+            "faint": 9.765625,
+            "moderate": 11.109375,
+            "visible": 11.328125,
+            "obvious": 8.1171875
+        },
+        "predict_score": 3.034968519148087
+    },
+    "02158.JPEG": {
+        "gt_score": 4.3,
+        "logits": {
+            "invisible": 13.3203125,
+            "faint": 12.40625,
+            "moderate": 8.3046875,
+            "visible": 7.03515625,
+            "obvious": 7.4609375
+        },
+        "predict_score": 4.694696456834215
+    },
+    "02159.JPEG": {
+        "gt_score": 2.8,
+        "logits": {
+            "invisible": 10.8359375,
+            "faint": 10.2890625,
+            "moderate": 10.15625,
+            "visible": 8.609375,
+            "obvious": 7.69140625
+        },
+        "predict_score": 4.066248520574029
+    },
+    "02160.JPEG": {
+        "gt_score": 4.8,
+        "logits": {
+            "invisible": 16.828125,
+            "faint": 11.7578125,
+            "moderate": 5.69921875,
+            "visible": 7.5078125,
+            "obvious": 5.9375
+        },
+        "predict_score": 4.993389224385747
+    },
+    "02161.JPEG": {
+        "gt_score": 4.6,
+        "logits": {
+            "invisible": 14.125,
+            "faint": 9.8359375,
+            "moderate": 7.16015625,
+            "visible": 10.84375,
+            "obvious": 8.4921875
+        },
+        "predict_score": 4.864878232531936
+    },
+    "02162.JPEG": {
+        "gt_score": 0.8,
+        "logits": {
+            "invisible": 8.40625,
+            "faint": 5.46875,
+            "moderate": 10.0234375,
+            "visible": 13.7421875,
+            "obvious": 13.46875
+        },
+        "predict_score": 1.5969269198197276
+    },
+    "02163.JPEG": {
+        "gt_score": 4.9,
+        "logits": {
+            "invisible": 14.8203125,
+            "faint": 9.2109375,
+            "moderate": 6.03515625,
+            "visible": 7.796875,
+            "obvious": 5.4765625
+        },
+        "predict_score": 4.9930417123014585
+    },
+    "02164.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 14.515625,
+            "faint": 8.5,
+            "moderate": 3.298828125,
+            "visible": 7.11328125,
+            "obvious": 6.2890625
+        },
+        "predict_score": 4.994651319202693
+    },
+    "02165.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 9.1953125,
+            "faint": 10.5859375,
+            "moderate": 14.1171875,
+            "visible": 11.7890625,
+            "obvious": 7.37109375
+        },
+        "predict_score": 2.9506785803910263
+    },
+    "02166.JPEG": {
+        "gt_score": 2.4,
+        "logits": {
+            "invisible": 8.3515625,
+            "faint": 5.64453125,
+            "moderate": 11.2265625,
+            "visible": 13.6796875,
+            "obvious": 10.1953125
+        },
+        "predict_score": 2.062893541992822
+    },
+    "02167.JPEG": {
+        "gt_score": 4.2,
+        "logits": {
+            "invisible": 13.015625,
+            "faint": 13.53125,
+            "moderate": 8.2890625,
+            "visible": 9.765625,
+            "obvious": 7.859375
+        },
+        "predict_score": 4.328547978681804
+    },
+    "02168.JPEG": {
+        "gt_score": 4.8,
+        "logits": {
+            "invisible": 14.4921875,
+            "faint": 7.6015625,
+            "moderate": 2.71875,
+            "visible": 6.15234375,
+            "obvious": 5.2734375
+        },
+        "predict_score": 4.997857150414124
+    },
+    "02169.JPEG": {
+        "gt_score": 4.9,
+        "logits": {
+            "invisible": 15.3828125,
+            "faint": 6.33203125,
+            "moderate": 1.7646484375,
+            "visible": 5.5859375,
+            "obvious": 5.3671875
+        },
+        "predict_score": 4.999534706384641
+    },
+    "02170.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 14.2890625,
+            "faint": 7.19921875,
+            "moderate": 2.181640625,
+            "visible": 7.3671875,
+            "obvious": 2.90625
+        },
+        "predict_score": 4.9961589925162215
+    },
+    "02171.JPEG": {
+        "gt_score": 2.8,
+        "logits": {
+            "invisible": 9.15625,
+            "faint": 11.0390625,
+            "moderate": 11.9140625,
+            "visible": 10.734375,
+            "obvious": 9.296875
+        },
+        "predict_score": 3.0485480596046375
+    },
+    "02172.JPEG": {
+        "gt_score": 4.4,
+        "logits": {
+            "invisible": 14.5390625,
+            "faint": 8.234375,
+            "moderate": 5.421875,
+            "visible": 7.359375,
+            "obvious": 5.05859375
+        },
+        "predict_score": 4.995374565438172
+    },
+    "02173.JPEG": {
+        "gt_score": 4.0,
+        "logits": {
+            "invisible": 15.4921875,
+            "faint": 12.2890625,
+            "moderate": 11.5859375,
+            "visible": 13.171875,
+            "obvious": 9.4140625
+        },
+        "predict_score": 4.6686732830900635
+    },
+    "02174.JPEG": {
+        "gt_score": 4.7,
+        "logits": {
+            "invisible": 14.7265625,
+            "faint": 10.0390625,
+            "moderate": 3.923828125,
+            "visible": 4.03125,
+            "obvious": 3.5390625
+        },
+        "predict_score": 4.990712357562644
+    },
+    "02175.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 11.578125,
+            "faint": 11.0234375,
+            "moderate": 12.078125,
+            "visible": 12.59375,
+            "obvious": 10.0
+        },
+        "predict_score": 2.9031471413396788
+    },
+    "02176.JPEG": {
+        "gt_score": 4.8,
+        "logits": {
+            "invisible": 14.484375,
+            "faint": 10.421875,
+            "moderate": 4.734375,
+            "visible": 9.015625,
+            "obvious": 5.11328125
+        },
+        "predict_score": 4.970327279723605
+    },
+    "02177.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 14.7421875,
+            "faint": 10.75,
+            "moderate": 1.58984375,
+            "visible": 5.03125,
+            "obvious": 2.671875
+        },
+        "predict_score": 4.981671649093674
+    },
+    "02178.JPEG": {
+        "gt_score": 0.1,
+        "logits": {
+            "invisible": 7.56640625,
+            "faint": 3.5078125,
+            "moderate": 8.203125,
+            "visible": 12.8203125,
+            "obvious": 13.2578125
+        },
+        "predict_score": 1.4059784527451156
+    },
+    "02179.JPEG": {
+        "gt_score": 4.4,
+        "logits": {
+            "invisible": 15.671875,
+            "faint": 10.234375,
+            "moderate": 5.671875,
+            "visible": 10.7265625,
+            "obvious": 8.1640625
+        },
+        "predict_score": 4.972347189129953
+    },
+    "02180.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 14.140625,
+            "faint": 6.08203125,
+            "moderate": 2.6953125,
+            "visible": 8.890625,
+            "obvious": 9.734375
+        },
+        "predict_score": 4.936249484259962
+    },
+    "02181.JPEG": {
+        "gt_score": 4.8,
+        "logits": {
+            "invisible": 17.78125,
+            "faint": 9.578125,
+            "moderate": 3.9765625,
+            "visible": 4.87890625,
+            "obvious": 5.44921875
+        },
+        "predict_score": 4.9996991567350335
+    },
+    "02182.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 8.3828125,
+            "faint": 11.2578125,
+            "moderate": 12.953125,
+            "visible": 9.9296875,
+            "obvious": 10.3828125
+        },
+        "predict_score": 3.001966801842234
+    },
+    "02183.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 10.3359375,
+            "faint": 4.15625,
+            "moderate": 7.23828125,
+            "visible": 13.9453125,
+            "obvious": 11.6640625
+        },
+        "predict_score": 1.9826486678649875
+    },
+    "02184.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 18.015625,
+            "faint": 9.828125,
+            "moderate": 5.47265625,
+            "visible": 8.828125,
+            "obvious": 6.86328125
+        },
+        "predict_score": 4.999350713012816
+    },
+    "02185.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 14.0390625,
+            "faint": 8.609375,
+            "moderate": 10.15625,
+            "visible": 12.6875,
+            "obvious": 11.3046875
+        },
+        "predict_score": 4.197911345772295
+    },
+    "02186.JPEG": {
+        "gt_score": 1.7,
+        "logits": {
+            "invisible": 9.6171875,
+            "faint": 7.7734375,
+            "moderate": 9.65625,
+            "visible": 16.140625,
+            "obvious": 15.65625
+        },
+        "predict_score": 1.6234912670148083
+    },
+    "02187.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 11.84375,
+            "faint": 7.3984375,
+            "moderate": 1.6767578125,
+            "visible": 7.203125,
+            "obvious": 4.33203125
+        },
+        "predict_score": 4.957971544431077
+    },
+    "02188.JPEG": {
+        "gt_score": 2.4,
+        "logits": {
+            "invisible": 12.1484375,
+            "faint": 6.171875,
+            "moderate": 9.5859375,
+            "visible": 16.171875,
+            "obvious": 14.5078125
+        },
+        "predict_score": 1.8889506718600892
+    },
+    "02189.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 13.8828125,
+            "faint": 9.2421875,
+            "moderate": 2.193359375,
+            "visible": 8.9609375,
+            "obvious": 6.97265625
+        },
+        "predict_score": 4.965110812357178
+    },
+    "02190.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 13.4765625,
+            "faint": 10.9375,
+            "moderate": 4.91796875,
+            "visible": 5.30859375,
+            "obvious": 2.3671875
+        },
+        "predict_score": 4.925669331106644
+    },
+    "02191.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 16.875,
+            "faint": 10.8828125,
+            "moderate": 6.63671875,
+            "visible": 6.71484375,
+            "obvious": 4.01953125
+        },
+        "predict_score": 4.997310692933861
+    },
+    "02192.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 12.515625,
+            "faint": 9.9921875,
+            "moderate": 6.87890625,
+            "visible": 8.4921875,
+            "obvious": 6.91015625
+        },
+        "predict_score": 4.859137753361286
+    },
+    "02193.JPEG": {
+        "gt_score": 2.6,
+        "logits": {
+            "invisible": 9.0390625,
+            "faint": 9.4921875,
+            "moderate": 10.984375,
+            "visible": 9.15625,
+            "obvious": 4.73046875
+        },
+        "predict_score": 3.2262095957410355
+    },
+    "02194.JPEG": {
+        "gt_score": 3.4,
+        "logits": {
+            "invisible": 9.421875,
+            "faint": 13.1875,
+            "moderate": 13.2421875,
+            "visible": 10.8828125,
+            "obvious": 6.7578125
+        },
+        "predict_score": 3.432549910446915
+    },
+    "02195.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 16.8125,
+            "faint": 6.5390625,
+            "moderate": -0.857421875,
+            "visible": 6.97265625,
+            "obvious": 5.7109375
+        },
+        "predict_score": 4.999745233580702
+    },
+    "02196.JPEG": {
+        "gt_score": 2.3,
+        "logits": {
+            "invisible": 12.3671875,
+            "faint": 11.109375,
+            "moderate": 11.0390625,
+            "visible": 11.5390625,
+            "obvious": 8.7421875
+        },
+        "predict_score": 3.8913652892466115
+    },
+    "02197.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 18.140625,
+            "faint": 7.38671875,
+            "moderate": 2.771484375,
+            "visible": 6.73828125,
+            "obvious": 4.47265625
+        },
+        "predict_score": 4.999940073517809
+    },
+    "02198.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 12.5390625,
+            "faint": 9.4140625,
+            "moderate": 6.7265625,
+            "visible": 8.8359375,
+            "obvious": 5.83984375
+        },
+        "predict_score": 4.8799563178365215
+    },
+    "02199.JPEG": {
+        "gt_score": 2.7,
+        "logits": {
+            "invisible": 15.2734375,
+            "faint": 10.9140625,
+            "moderate": 9.609375,
+            "visible": 10.7890625,
+            "obvious": 9.5
+        },
+        "predict_score": 4.935951743112287
+    },
+    "02200.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 13.484375,
+            "faint": 9.8828125,
+            "moderate": 8.6875,
+            "visible": 9.3984375,
+            "obvious": 9.28125
+        },
+        "predict_score": 4.855700925733773
+    },
+    "02201.JPEG": {
+        "gt_score": 3.7,
+        "logits": {
+            "invisible": 9.71875,
+            "faint": 12.6640625,
+            "moderate": 9.921875,
+            "visible": 9.359375,
+            "obvious": 6.48046875
+        },
+        "predict_score": 3.9208730743655695
+    },
+    "02202.JPEG": {
+        "gt_score": 1.5,
+        "logits": {
+            "invisible": 8.3828125,
+            "faint": 7.4609375,
+            "moderate": 11.2265625,
+            "visible": 12.3671875,
+            "obvious": 9.8359375
+        },
+        "predict_score": 2.2179876380118015
+    },
+    "02203.JPEG": {
+        "gt_score": 4.6,
+        "logits": {
+            "invisible": 13.984375,
+            "faint": 8.0546875,
+            "moderate": 3.189453125,
+            "visible": 5.171875,
+            "obvious": 2.650390625
+        },
+        "predict_score": 4.996814309849105
+    },
+    "02204.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 16.859375,
+            "faint": 8.7109375,
+            "moderate": 6.7734375,
+            "visible": 7.546875,
+            "obvious": 5.96484375
+        },
+        "predict_score": 4.999282702456675
+    },
+    "02205.JPEG": {
+        "gt_score": 4.1,
+        "logits": {
+            "invisible": 12.0078125,
+            "faint": 5.94921875,
+            "moderate": 3.724609375,
+            "visible": 5.33984375,
+            "obvious": 5.16796875
+        },
+        "predict_score": 4.989116519033295
+    },
+    "02206.JPEG": {
+        "gt_score": 3.5,
+        "logits": {
+            "invisible": 13.84375,
+            "faint": 12.140625,
+            "moderate": 9.453125,
+            "visible": 10.1484375,
+            "obvious": 6.328125
+        },
+        "predict_score": 4.7675229447298175
+    },
+    "02207.JPEG": {
+        "gt_score": 2.9,
+        "logits": {
+            "invisible": 7.7890625,
+            "faint": 8.5625,
+            "moderate": 8.953125,
+            "visible": 12.4296875,
+            "obvious": 9.1171875
+        },
+        "predict_score": 2.0594564958464856
+    },
+    "02208.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 13.03125,
+            "faint": 8.2890625,
+            "moderate": 6.95703125,
+            "visible": 8.125,
+            "obvious": 7.03515625
+        },
+        "predict_score": 4.955454613388477
+    },
+    "02209.JPEG": {
+        "gt_score": 4.1,
+        "logits": {
+            "invisible": 14.046875,
+            "faint": 9.1953125,
+            "moderate": 6.796875,
+            "visible": 6.3515625,
+            "obvious": 3.109375
+        },
+        "predict_score": 4.989422701886463
+    },
+    "02210.JPEG": {
+        "gt_score": 3.9,
+        "logits": {
+            "invisible": 8.8359375,
+            "faint": 11.15625,
+            "moderate": 8.5390625,
+            "visible": 10.46875,
+            "obvious": 7.24609375
+        },
+        "predict_score": 3.38579294463858
+    },
+    "02211.JPEG": {
+        "gt_score": 4.9,
+        "logits": {
+            "invisible": 18.296875,
+            "faint": 8.078125,
+            "moderate": 1.0693359375,
+            "visible": 5.21875,
+            "obvious": 4.9140625
+        },
+        "predict_score": 4.999951019117583
+    },
+    "02212.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 14.125,
+            "faint": 6.50390625,
+            "moderate": 5.234375,
+            "visible": 7.66796875,
+            "obvious": 5.8046875
+        },
+        "predict_score": 4.99356792235668
+    },
+    "02213.JPEG": {
+        "gt_score": 4.1,
+        "logits": {
+            "invisible": 16.203125,
+            "faint": 9.4453125,
+            "moderate": -0.240478515625,
+            "visible": 8.4140625,
+            "obvious": 5.484375
+        },
+        "predict_score": 4.997510838207328
+    },
+    "02214.JPEG": {
+        "gt_score": 4.6,
+        "logits": {
+            "invisible": 16.5625,
+            "faint": 9.5703125,
+            "moderate": 5.578125,
+            "visible": 7.8203125,
+            "obvious": 5.9453125
+        },
+        "predict_score": 4.998471670494598
+    },
+    "02215.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 16.5,
+            "faint": 7.4453125,
+            "moderate": 4.91796875,
+            "visible": 10.3203125,
+            "obvious": 7.85546875
+        },
+        "predict_score": 4.992963619405647
+    },
+    "02216.JPEG": {
+        "gt_score": 2.4,
+        "logits": {
+            "invisible": 11.7578125,
+            "faint": 14.8046875,
+            "moderate": 13.7734375,
+            "visible": 13.6875,
+            "obvious": 9.4140625
+        },
+        "predict_score": 3.4370814291913634
+    },
+    "02217.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 16.921875,
+            "faint": 8.3046875,
+            "moderate": 4.578125,
+            "visible": 6.37890625,
+            "obvious": 5.171875
+        },
+        "predict_score": 4.99969969142651
+    },
+    "02218.JPEG": {
+        "gt_score": 3.9,
+        "logits": {
+            "invisible": 10.5078125,
+            "faint": 8.96875,
+            "moderate": 3.056640625,
+            "visible": 5.078125,
+            "obvious": 3.166015625
+        },
+        "predict_score": 4.810285583290504
+    },
+    "02219.JPEG": {
+        "gt_score": 3.0,
+        "logits": {
+            "invisible": 9.3984375,
+            "faint": 8.2265625,
+            "moderate": 16.09375,
+            "visible": 13.1953125,
+            "obvious": 8.90625
+        },
+        "predict_score": 2.9491579443721117
+    },
+    "02220.JPEG": {
+        "gt_score": 4.1,
+        "logits": {
+            "invisible": 15.34375,
+            "faint": 8.421875,
+            "moderate": 3.931640625,
+            "visible": 7.3984375,
+            "obvious": 6.546875
+        },
+        "predict_score": 4.997328136829155
+    },
+    "02221.JPEG": {
+        "gt_score": 4.7,
+        "logits": {
+            "invisible": 13.5625,
+            "faint": 12.1015625,
+            "moderate": 3.591796875,
+            "visible": 8.765625,
+            "obvious": 6.25
+        },
+        "predict_score": 4.790854346110708
+    },
+    "02222.JPEG": {
+        "gt_score": 0.8,
+        "logits": {
+            "invisible": 10.296875,
+            "faint": 4.26171875,
+            "moderate": 5.078125,
+            "visible": 14.046875,
+            "obvious": 15.7109375
+        },
+        "predict_score": 1.1736074375539873
+    },
+    "02223.JPEG": {
+        "gt_score": 0.5,
+        "logits": {
+            "invisible": 7.1953125,
+            "faint": 0.685546875,
+            "moderate": 3.302734375,
+            "visible": 14.9765625,
+            "obvious": 15.15625
+        },
+        "predict_score": 1.4558788361203405
+    },
+    "02224.JPEG": {
+        "gt_score": 2.3,
+        "logits": {
+            "invisible": 9.8984375,
+            "faint": 10.78125,
+            "moderate": 12.890625,
+            "visible": 8.90625,
+            "obvious": 5.796875
+        },
+        "predict_score": 3.169115715819957
+    },
+    "02225.JPEG": {
+        "gt_score": 4.8,
+        "logits": {
+            "invisible": 10.7890625,
+            "faint": 6.12109375,
+            "moderate": 6.0859375,
+            "visible": 10.96875,
+            "obvious": 11.2578125
+        },
+        "predict_score": 2.3749653158599724
+    },
+    "02226.JPEG": {
+        "gt_score": 2.5,
+        "logits": {
+            "invisible": 12.453125,
+            "faint": 13.078125,
+            "moderate": 8.9765625,
+            "visible": 8.1796875,
+            "obvious": 3.5546875
+        },
+        "predict_score": 4.322943653396636
+    },
+    "02227.JPEG": {
+        "gt_score": 0.6,
+        "logits": {
+            "invisible": 8.8828125,
+            "faint": 3.203125,
+            "moderate": 9.890625,
+            "visible": 13.359375,
+            "obvious": 11.5546875
+        },
+        "predict_score": 1.9178398657405595
+    },
+    "02228.JPEG": {
+        "gt_score": 2.8,
+        "logits": {
+            "invisible": 8.953125,
+            "faint": 6.20703125,
+            "moderate": 11.84375,
+            "visible": 14.8125,
+            "obvious": 11.5390625
+        },
+        "predict_score": 2.0205229112373218
+    },
+    "02229.JPEG": {
+        "gt_score": 0.4,
+        "logits": {
+            "invisible": 8.7421875,
+            "faint": 2.921875,
+            "moderate": 2.41015625,
+            "visible": 12.921875,
+            "obvious": 13.28125
+        },
+        "predict_score": 1.4336136742462071
+    },
+    "02230.JPEG": {
+        "gt_score": 1.5,
+        "logits": {
+            "invisible": 8.5390625,
+            "faint": 3.0703125,
+            "moderate": 2.892578125,
+            "visible": 15.03125,
+            "obvious": 14.484375
+        },
+        "predict_score": 1.6366524622882683
+    },
+    "02231.JPEG": {
+        "gt_score": 0.5,
+        "logits": {
+            "invisible": 13.1171875,
+            "faint": 10.0546875,
+            "moderate": 5.12109375,
+            "visible": 10.53125,
+            "obvious": 9.953125
+        },
+        "predict_score": 4.620124917008138
+    },
+    "02232.JPEG": {
+        "gt_score": 4.8,
+        "logits": {
+            "invisible": 16.671875,
+            "faint": 8.5625,
+            "moderate": 4.9296875,
+            "visible": 7.1484375,
+            "obvious": 5.390625
+        },
+        "predict_score": 4.999413839924152
+    },
+    "02233.JPEG": {
+        "gt_score": 1.4,
+        "logits": {
+            "invisible": 12.609375,
+            "faint": 10.890625,
+            "moderate": 11.4140625,
+            "visible": 12.15625,
+            "obvious": 7.96875
+        },
+        "predict_score": 3.7166018269871826
+    },
+    "02234.JPEG": {
+        "gt_score": 4.6,
+        "logits": {
+            "invisible": 17.0,
+            "faint": 8.6328125,
+            "moderate": 5.0,
+            "visible": 7.3203125,
+            "obvious": 3.474609375
+        },
+        "predict_score": 4.99956250621249
+    },
+    "02235.JPEG": {
+        "gt_score": 5.0,
+        "logits": {
+            "invisible": 17.328125,
+            "faint": 10.359375,
+            "moderate": 5.69140625,
+            "visible": 7.48828125,
+            "obvious": 5.08203125
+        },
+        "predict_score": 4.998863573489557
+    },
+    "02236.JPEG": {
+        "gt_score": 4.2,
+        "logits": {
+            "invisible": 13.1640625,
+            "faint": 9.84375,
+            "moderate": 4.35546875,
+            "visible": 6.57421875,
+            "obvious": 6.203125
+        },
+        "predict_score": 4.957293047235872
+    },
+    "02237.JPEG": {
+        "gt_score": 4.2,
+        "logits": {
+            "invisible": 14.8359375,
+            "faint": 13.5078125,
+            "moderate": 3.353515625,
+            "visible": 8.484375,
+            "obvious": 6.7890625
+        },
+        "predict_score": 4.785717121712116
+    },
+    "02238.JPEG": {
+        "gt_score": 0.1,
+        "logits": {
+            "invisible": 8.515625,
+            "faint": 1.1845703125,
+            "moderate": 5.08984375,
+            "visible": 11.4140625,
+            "obvious": 13.0390625
+        },
+        "predict_score": 1.1995205976500587
+    },
+    "02239.JPEG": {
+        "gt_score": 0.8,
+        "logits": {
+            "invisible": 5.94921875,
+            "faint": 2.71484375,
+            "moderate": 4.1015625,
+            "visible": 12.9453125,
+            "obvious": 13.09375
+        },
+        "predict_score": 1.4646018503013996
+    },
+    "02240.JPEG": {
+        "gt_score": 1.2,
+        "logits": {
+            "invisible": 5.91796875,
+            "faint": 5.75390625,
+            "moderate": 11.40625,
+            "visible": 12.828125,
+            "obvious": 10.5234375
+        },
+        "predict_score": 2.1088374819709714
+    },
+    "02241.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 12.6171875,
+            "faint": 8.6875,
+            "moderate": 4.81640625,
+            "visible": 6.87109375,
+            "obvious": 4.53515625
+        },
+        "predict_score": 4.969429814480447
+    },
+    "02242.JPEG": {
+        "gt_score": 4.9,
+        "logits": {
+            "invisible": 16.328125,
+            "faint": 10.765625,
+            "moderate": 4.75,
+            "visible": 5.80859375,
+            "obvious": 3.328125
+        },
+        "predict_score": 4.996067293307507
+    },
+    "02243.JPEG": {
+        "gt_score": 3.5,
+        "logits": {
+            "invisible": 17.078125,
+            "faint": 11.0625,
+            "moderate": 4.69921875,
+            "visible": 8.15625,
+            "obvious": 8.203125
+        },
+        "predict_score": 4.996600822893535
+    },
+    "02244.JPEG": {
+        "gt_score": 1.1,
+        "logits": {
+            "invisible": 6.8828125,
+            "faint": -1.1767578125,
+            "moderate": 1.9140625,
+            "visible": 14.3046875,
+            "obvious": 14.984375
+        },
+        "predict_score": 1.3370702907124439
+    },
+    "02245.JPEG": {
+        "gt_score": 4.0,
+        "logits": {
+            "invisible": 11.0703125,
+            "faint": 10.15625,
+            "moderate": 8.7421875,
+            "visible": 9.4375,
+            "obvious": 6.2265625
+        },
+        "predict_score": 4.286861088576924
+    },
+    "02246.JPEG": {
+        "gt_score": 4.6,
+        "logits": {
+            "invisible": 11.71875,
+            "faint": 13.546875,
+            "moderate": 8.171875,
+            "visible": 8.484375,
+            "obvious": 6.03515625
+        },
+        "predict_score": 4.120953510184862
+    },
+    "02247.JPEG": {
+        "gt_score": 4.2,
+        "logits": {
+            "invisible": 12.1171875,
+            "faint": 12.078125,
+            "moderate": 7.74609375,
+            "visible": 8.7421875,
+            "obvious": 4.43359375
+        },
+        "predict_score": 4.456716005215256
+    },
+    "02248.JPEG": {
+        "gt_score": 4.6,
+        "logits": {
+            "invisible": 15.890625,
+            "faint": 10.0,
+            "moderate": 6.71875,
+            "visible": 7.88671875,
+            "obvious": 4.796875
+        },
+        "predict_score": 4.995976566086788
+    },
+    "02249.JPEG": {
+        "gt_score": 1.3,
+        "logits": {
+            "invisible": 14.6953125,
+            "faint": 11.8828125,
+            "moderate": 10.40625,
+            "visible": 10.671875,
+            "obvious": 7.03125
+        },
+        "predict_score": 4.8690252377739744
+    },
+    "02250.JPEG": {
+        "gt_score": 3.7,
+        "logits": {
+            "invisible": 10.140625,
+            "faint": 9.0,
+            "moderate": 14.25,
+            "visible": 10.5546875,
+            "obvious": 6.359375
+        },
+        "predict_score": 3.011935874762817
+    },
+    "02251.JPEG": {
+        "gt_score": 4.8,
+        "logits": {
+            "invisible": 16.5625,
+            "faint": 9.1640625,
+            "moderate": 5.921875,
+            "visible": 8.46875,
+            "obvious": 5.28125
+        },
+        "predict_score": 4.998374739024641
+    },
+    "02252.JPEG": {
+        "gt_score": 4.9,
+        "logits": {
+            "invisible": 13.1640625,
+            "faint": 8.421875,
+            "moderate": 6.1796875,
+            "visible": 8.203125,
+            "obvious": 3.787109375
+        },
+        "predict_score": 4.968595889244531
+    },
+    "02253.JPEG": {
+        "gt_score": 0.5,
+        "logits": {
+            "invisible": 8.671875,
+            "faint": 5.375,
+            "moderate": 7.22265625,
+            "visible": 12.25,
+            "obvious": 12.140625
+        },
+        "predict_score": 1.5838384551231424
+    },
+    "02254.JPEG": {
+        "gt_score": 4.9,
+        "logits": {
+            "invisible": 10.0859375,
+            "faint": 10.96875,
+            "moderate": 11.6796875,
+            "visible": 12.609375,
+            "obvious": 9.1796875
+        },
+        "predict_score": 2.5822929778268446
+    },
+    "02255.JPEG": {
+        "gt_score": 2.0,
+        "logits": {
+            "invisible": 10.296875,
+            "faint": 8.7109375,
+            "moderate": 9.3671875,
+            "visible": 14.1640625,
+            "obvious": 12.1484375
+        },
+        "predict_score": 1.954002922558246
+    },
+    "02256.JPEG": {
+        "gt_score": 2.1,
+        "logits": {
+            "invisible": 8.4921875,
+            "faint": 7.375,
+            "moderate": 16.9375,
+            "visible": 16.484375,
+            "obvious": 9.6796875
+        },
+        "predict_score": 2.6110615056000515
+    },
+    "02257.JPEG": {
+        "gt_score": 4.3,
+        "logits": {
+            "invisible": 11.75,
+            "faint": 12.265625,
+            "moderate": 11.375,
+            "visible": 11.359375,
+            "obvious": 6.421875
+        },
+        "predict_score": 3.739056115947852
+    },
+    "02258.JPEG": {
+        "gt_score": 4.4,
+        "logits": {
+            "invisible": 14.8828125,
+            "faint": 10.1875,
+            "moderate": 4.23046875,
+            "visible": 7.6796875,
+            "obvious": 7.55078125
+        },
+        "predict_score": 4.986111619136985
+    },
+    "02259.JPEG": {
+        "gt_score": 4.8,
+        "logits": {
+            "invisible": 13.2421875,
+            "faint": 8.5390625,
+            "moderate": 5.640625,
+            "visible": 6.54296875,
+            "obvious": 5.57421875
+        },
+        "predict_score": 4.984542022612576
+    },
+    "02260.JPEG": {
+        "gt_score": 3.7,
+        "logits": {
+            "invisible": 14.3515625,
+            "faint": 12.2578125,
+            "moderate": 9.7734375,
+            "visible": 10.0,
+            "obvious": 9.1640625
+        },
+        "predict_score": 4.822238341973641
+    },
+    "02261.JPEG": {
+        "gt_score": 3.9,
+        "logits": {
+            "invisible": 16.46875,
+            "faint": 10.4453125,
+            "moderate": 6.7734375,
+            "visible": 7.44140625,
+            "obvious": 5.39453125
+        },
+        "predict_score": 4.997041002172093
+    },
+    "02262.JPEG": {
+        "gt_score": 2.9,
+        "logits": {
+            "invisible": 7.38671875,
+            "faint": 7.40234375,
+            "moderate": 12.8984375,
+            "visible": 9.78125,
+            "obvious": 7.49609375
+        },
+        "predict_score": 2.9611019780770134
+    },
+    "02263.JPEG": {
+        "gt_score": 1.7,
+        "logits": {
+            "invisible": 8.8046875,
+            "faint": 4.87890625,
+            "moderate": 11.328125,
+            "visible": 12.484375,
+            "obvious": 10.9609375
+        },
+        "predict_score": 2.1112652425542158
+    },
+    "02264.JPEG": {
+        "gt_score": 1.5,
+        "logits": {
+            "invisible": 13.4765625,
+            "faint": 7.42578125,
+            "moderate": 2.634765625,
+            "visible": 7.77734375,
+            "obvious": 4.48046875
+        },
+        "predict_score": 4.98713875099866
+    },
+    "02265.JPEG": {
+        "gt_score": 4.7,
+        "logits": {
+            "invisible": 7.81640625,
+            "faint": 0.9677734375,
+            "moderate": 3.982421875,
+            "visible": 14.6953125,
+            "obvious": 15.6640625
+        },
+        "predict_score": 1.2761956139892834
+    },
+    "02266.JPEG": {
+        "gt_score": 4.9,
+        "logits": {
+            "invisible": 13.3984375,
+            "faint": 8.8984375,
+            "moderate": 4.421875,
+            "visible": 5.73828125,
+            "obvious": 4.6796875
+        },
+        "predict_score": 4.986728200690044
+    },
+    "02267.JPEG": {
+        "gt_score": 2.9,
+        "logits": {
+            "invisible": 8.8203125,
+            "faint": 9.9921875,
+            "moderate": 11.875,
+            "visible": 9.2265625,
+            "obvious": 7.52734375
+        },
+        "predict_score": 3.116758235730889
+    },
+    "02268.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 13.8828125,
+            "faint": 9.8828125,
+            "moderate": 4.74609375,
+            "visible": 3.42578125,
+            "obvious": 3.8125
+        },
+        "predict_score": 4.981554708854609
+    },
+    "02269.JPEG": {
+        "gt_score": 0.5,
+        "logits": {
+            "invisible": 12.125,
+            "faint": 7.94140625,
+            "moderate": 7.16796875,
+            "visible": 12.0859375,
+            "obvious": 11.8046875
+        },
+        "predict_score": 2.8530230920687525
+    },
+    "02270.JPEG": {
+        "gt_score": 4.4,
+        "logits": {
+            "invisible": 10.0390625,
+            "faint": 8.7265625,
+            "moderate": 4.04296875,
+            "visible": 5.2890625,
+            "obvious": 2.240234375
+        },
+        "predict_score": 4.764410105526118
+    },
+    "02271.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 16.703125,
+            "faint": 11.1328125,
+            "moderate": 0.78955078125,
+            "visible": 7.36328125,
+            "obvious": 4.6015625
+        },
+        "predict_score": 4.995920623009561
+    },
+    "02272.JPEG": {
+        "gt_score": 4.4,
+        "logits": {
+            "invisible": 13.9296875,
+            "faint": 8.890625,
+            "moderate": 4.35546875,
+            "visible": 9.453125,
+            "obvious": 5.20703125
+        },
+        "predict_score": 4.959347634226188
+    },
+    "02273.JPEG": {
+        "gt_score": 4.1,
+        "logits": {
+            "invisible": 11.328125,
+            "faint": 9.265625,
+            "moderate": 8.8203125,
+            "visible": 11.625,
+            "obvious": 10.171875
+        },
+        "predict_score": 3.0530381330485854
+    },
+    "02274.JPEG": {
+        "gt_score": 1.2,
+        "logits": {
+            "invisible": 8.8359375,
+            "faint": 6.02734375,
+            "moderate": 12.0625,
+            "visible": 15.1640625,
+            "obvious": 11.34375
+        },
+        "predict_score": 2.026786606379212
+    },
+    "02275.JPEG": {
+        "gt_score": 0.8,
+        "logits": {
+            "invisible": 5.65234375,
+            "faint": 4.40625,
+            "moderate": 1.5068359375,
+            "visible": 11.15625,
+            "obvious": 15.78125
+        },
+        "predict_score": 1.0099014070285386
+    },
+    "02276.JPEG": {
+        "gt_score": 4.4,
+        "logits": {
+            "invisible": 11.8828125,
+            "faint": 10.375,
+            "moderate": 6.8984375,
+            "visible": 7.0703125,
+            "obvious": 5.796875
+        },
+        "predict_score": 4.783179182747294
+    },
+    "02277.JPEG": {
+        "gt_score": 3.9,
+        "logits": {
+            "invisible": 15.2578125,
+            "faint": 12.1953125,
+            "moderate": 6.5078125,
+            "visible": 8.0546875,
+            "obvious": 7.3671875
+        },
+        "predict_score": 4.95151245254522
+    },
+    "02278.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 14.515625,
+            "faint": 7.125,
+            "moderate": -0.50439453125,
+            "visible": 6.5859375,
+            "obvious": 5.3828125
+        },
+        "predict_score": 4.997872757221485
+    },
+    "02279.JPEG": {
+        "gt_score": 4.6,
+        "logits": {
+            "invisible": 17.0625,
+            "faint": 11.875,
+            "moderate": 8.4765625,
+            "visible": 13.6015625,
+            "obvious": 9.5546875
+        },
+        "predict_score": 4.901365243796054
+    },
+    "02280.JPEG": {
+        "gt_score": 5.0,
+        "logits": {
+            "invisible": 14.8671875,
+            "faint": 7.8671875,
+            "moderate": 4.58984375,
+            "visible": 4.4609375,
+            "obvious": 4.62890625
+        },
+        "predict_score": 4.998786712908388
+    },
+    "02281.JPEG": {
+        "gt_score": 2.8,
+        "logits": {
+            "invisible": 8.1953125,
+            "faint": 9.953125,
+            "moderate": 11.0703125,
+            "visible": 10.5390625,
+            "obvious": 7.13671875
+        },
+        "predict_score": 2.9060875788097884
+    },
+    "02282.JPEG": {
+        "gt_score": 5.0,
+        "logits": {
+            "invisible": 14.8125,
+            "faint": 10.4140625,
+            "moderate": 5.9921875,
+            "visible": 6.546875,
+            "obvious": 5.20703125
+        },
+        "predict_score": 4.986538878066585
+    },
+    "02283.JPEG": {
+        "gt_score": 4.9,
+        "logits": {
+            "invisible": 13.6953125,
+            "faint": 6.91015625,
+            "moderate": 2.3125,
+            "visible": 3.658203125,
+            "obvious": 2.919921875
+        },
+        "predict_score": 4.998633569228971
+    },
+    "02284.JPEG": {
+        "gt_score": 3.9,
+        "logits": {
+            "invisible": 12.765625,
+            "faint": 9.578125,
+            "moderate": 6.97265625,
+            "visible": 7.16015625,
+            "obvious": 5.4140625
+        },
+        "predict_score": 4.941856092819686
+    },
+    "02285.JPEG": {
+        "gt_score": 4.1,
+        "logits": {
+            "invisible": 12.21875,
+            "faint": 6.5078125,
+            "moderate": 1.0517578125,
+            "visible": 2.734375,
+            "obvious": 2.978515625
+        },
+        "predict_score": 4.99605963300222
+    },
+    "02286.JPEG": {
+        "gt_score": 4.9,
+        "logits": {
+            "invisible": 16.765625,
+            "faint": 10.96875,
+            "moderate": 9.078125,
+            "visible": 9.0859375,
+            "obvious": 6.6328125
+        },
+        "predict_score": 4.994522447473334
+    },
+    "02287.JPEG": {
+        "gt_score": 3.6,
+        "logits": {
+            "invisible": 7.12890625,
+            "faint": 7.67578125,
+            "moderate": 14.03125,
+            "visible": 13.0625,
+            "obvious": 8.6484375
+        },
+        "predict_score": 2.722402232830893
+    },
+    "02288.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 14.140625,
+            "faint": 13.0546875,
+            "moderate": 10.828125,
+            "visible": 9.1171875,
+            "obvious": 6.46484375
+        },
+        "predict_score": 4.687169481304414
+    },
+    "02289.JPEG": {
+        "gt_score": 2.9,
+        "logits": {
+            "invisible": 9.15625,
+            "faint": 7.1484375,
+            "moderate": 6.76953125,
+            "visible": 11.75,
+            "obvious": 9.3828125
+        },
+        "predict_score": 2.1327974828613816
+    },
+    "02290.JPEG": {
+        "gt_score": 2.5,
+        "logits": {
+            "invisible": 6.0546875,
+            "faint": 0.1981201171875,
+            "moderate": 3.84765625,
+            "visible": 11.9296875,
+            "obvious": 10.90625
+        },
+        "predict_score": 1.7426713406650853
+    },
+    "02291.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 13.3671875,
+            "faint": 11.8515625,
+            "moderate": 13.015625,
+            "visible": 12.0,
+            "obvious": 9.7421875
+        },
+        "predict_score": 3.867022089888341
+    },
+    "02292.JPEG": {
+        "gt_score": 4.6,
+        "logits": {
+            "invisible": 13.15625,
+            "faint": 9.078125,
+            "moderate": 2.287109375,
+            "visible": 7.3828125,
+            "obvious": 4.12109375
+        },
+        "predict_score": 4.973748904118527
+    },
+    "02293.JPEG": {
+        "gt_score": 2.8,
+        "logits": {
+            "invisible": 8.84375,
+            "faint": 9.140625,
+            "moderate": 9.625,
+            "visible": 11.265625,
+            "obvious": 10.15625
+        },
+        "predict_score": 2.2132015177778412
+    },
+    "02294.JPEG": {
+        "gt_score": 1.7,
+        "logits": {
+            "invisible": 7.0390625,
+            "faint": 1.6435546875,
+            "moderate": 6.1875,
+            "visible": 11.5625,
+            "obvious": 12.8984375
+        },
+        "predict_score": 1.218467748979905
+    },
+    "02295.JPEG": {
+        "gt_score": 4.8,
+        "logits": {
+            "invisible": 15.75,
+            "faint": 11.3359375,
+            "moderate": 5.84765625,
+            "visible": 8.4609375,
+            "obvious": 7.41015625
+        },
+        "predict_score": 4.984986191327322
+    },
+    "02296.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 13.1484375,
+            "faint": 11.0,
+            "moderate": 5.62890625,
+            "visible": 7.05078125,
+            "obvious": 5.93359375
+        },
+        "predict_score": 4.886235781582416
+    },
+    "02297.JPEG": {
+        "gt_score": 4.2,
+        "logits": {
+            "invisible": 13.4140625,
+            "faint": 9.484375,
+            "moderate": 4.4140625,
+            "visible": 7.06640625,
+            "obvious": 2.931640625
+        },
+        "predict_score": 4.975271678604842
+    },
+    "02298.JPEG": {
+        "gt_score": 4.6,
+        "logits": {
+            "invisible": 11.7890625,
+            "faint": 7.6171875,
+            "moderate": 1.4921875,
+            "visible": 6.3125,
+            "obvious": 4.6875
+        },
+        "predict_score": 4.969291322334819
+    },
+    "02299.JPEG": {
+        "gt_score": 4.2,
+        "logits": {
+            "invisible": 14.5390625,
+            "faint": 6.9765625,
+            "moderate": 2.859375,
+            "visible": 7.0859375,
+            "obvious": 3.54296875
+        },
+        "predict_score": 4.997660177664342
+    },
+    "02300.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 13.671875,
+            "faint": 10.5390625,
+            "moderate": 6.65625,
+            "visible": 6.06640625,
+            "obvious": 3.01171875
+        },
+        "predict_score": 4.955046040550612
+    },
+    "02301.JPEG": {
+        "gt_score": 1.8,
+        "logits": {
+            "invisible": 11.7890625,
+            "faint": 8.59375,
+            "moderate": 13.3359375,
+            "visible": 10.03125,
+            "obvious": 6.9921875
+        },
+        "predict_score": 3.3129259394526622
+    },
+    "02302.JPEG": {
+        "gt_score": 4.7,
+        "logits": {
+            "invisible": 14.546875,
+            "faint": 10.8125,
+            "moderate": 6.09375,
+            "visible": 7.7421875,
+            "obvious": 6.7890625
+        },
+        "predict_score": 4.971383817237673
+    },
+    "02303.JPEG": {
+        "gt_score": 3.2,
+        "logits": {
+            "invisible": 15.40625,
+            "faint": 9.9296875,
+            "moderate": 6.28515625,
+            "visible": 8.984375,
+            "obvious": 4.99609375
+        },
+        "predict_score": 4.990655913203665
+    },
+    "02304.JPEG": {
+        "gt_score": 3.4,
+        "logits": {
+            "invisible": 14.6484375,
+            "faint": 8.90625,
+            "moderate": 5.36328125,
+            "visible": 10.0703125,
+            "obvious": 6.58984375
+        },
+        "predict_score": 4.96500488004451
+    },
+    "02305.JPEG": {
+        "gt_score": 3.4,
+        "logits": {
+            "invisible": 8.6015625,
+            "faint": 7.15234375,
+            "moderate": 10.96875,
+            "visible": 13.1640625,
+            "obvious": 11.1328125
+        },
+        "predict_score": 2.0130317965068416
+    },
+    "02306.JPEG": {
+        "gt_score": 4.0,
+        "logits": {
+            "invisible": 7.10546875,
+            "faint": 10.09375,
+            "moderate": 4.36328125,
+            "visible": 6.24609375,
+            "obvious": 3.619140625
+        },
+        "predict_score": 3.999853918757134
+    },
+    "02307.JPEG": {
+        "gt_score": 5.0,
+        "logits": {
+            "invisible": 15.7265625,
+            "faint": 10.0546875,
+            "moderate": 4.98046875,
+            "visible": 7.43359375,
+            "obvious": 4.79296875
+        },
+        "predict_score": 4.995709338505058
+    },
+    "02308.JPEG": {
+        "gt_score": 4.9,
+        "logits": {
+            "invisible": 17.265625,
+            "faint": 10.8671875,
+            "moderate": 5.6875,
+            "visible": 8.1171875,
+            "obvious": 7.0078125
+        },
+        "predict_score": 4.99786150117445
+    },
+    "02309.JPEG": {
+        "gt_score": 0.7,
+        "logits": {
+            "invisible": 9.140625,
+            "faint": 10.3515625,
+            "moderate": 9.359375,
+            "visible": 11.9296875,
+            "obvious": 7.6328125
+        },
+        "predict_score": 2.486066506437398
+    },
+    "02310.JPEG": {
+        "gt_score": 3.7,
+        "logits": {
+            "invisible": 15.3125,
+            "faint": 9.90625,
+            "moderate": 4.4296875,
+            "visible": 6.46875,
+            "obvious": 6.91796875
+        },
+        "predict_score": 4.994165219149138
+    },
+    "02311.JPEG": {
+        "gt_score": 4.4,
+        "logits": {
+            "invisible": 15.421875,
+            "faint": 7.20703125,
+            "moderate": 2.099609375,
+            "visible": 5.125,
+            "obvious": 4.40234375
+        },
+        "predict_score": 4.999559530225639
+    },
+    "02312.JPEG": {
+        "gt_score": 2.3,
+        "logits": {
+            "invisible": 10.3203125,
+            "faint": 9.046875,
+            "moderate": 16.109375,
+            "visible": 14.375,
+            "obvious": 8.234375
+        },
+        "predict_score": 2.855783163680624
+    },
+    "02313.JPEG": {
+        "gt_score": 3.3,
+        "logits": {
+            "invisible": 13.9609375,
+            "faint": 8.484375,
+            "moderate": 2.353515625,
+            "visible": 4.8515625,
+            "obvious": 4.9921875
+        },
+        "predict_score": 4.994979182358915
+    },
+    "02314.JPEG": {
+        "gt_score": 0.8,
+        "logits": {
+            "invisible": 15.7421875,
+            "faint": 9.6015625,
+            "moderate": 4.71875,
+            "visible": 12.015625,
+            "obvious": 11.5390625
+        },
+        "predict_score": 4.871102115368469
+    },
+    "02315.JPEG": {
+        "gt_score": 4.0,
+        "logits": {
+            "invisible": 14.234375,
+            "faint": 6.2421875,
+            "moderate": 4.13671875,
+            "visible": 7.50390625,
+            "obvious": 5.33984375
+        },
+        "predict_score": 4.995456858064161
+    },
+    "02316.JPEG": {
+        "gt_score": 4.4,
+        "logits": {
+            "invisible": 14.0625,
+            "faint": 7.29296875,
+            "moderate": 1.5908203125,
+            "visible": 6.0078125,
+            "obvious": 5.42578125
+        },
+        "predict_score": 4.997186032887332
+    },
+    "02317.JPEG": {
+        "gt_score": 2.9,
+        "logits": {
+            "invisible": 12.25,
+            "faint": 10.0078125,
+            "moderate": 8.9375,
+            "visible": 11.1875,
+            "obvious": 6.9609375
+        },
+        "predict_score": 4.172273539640684
+    },
+    "02318.JPEG": {
+        "gt_score": 4.8,
+        "logits": {
+            "invisible": 13.125,
+            "faint": 10.296875,
+            "moderate": 8.5625,
+            "visible": 6.74609375,
+            "obvious": 5.6171875
+        },
+        "predict_score": 4.918565867925099
+    },
+    "02319.JPEG": {
+        "gt_score": 2.6,
+        "logits": {
+            "invisible": 7.97265625,
+            "faint": 7.96484375,
+            "moderate": 13.46875,
+            "visible": 11.796875,
+            "obvious": 7.16796875
+        },
+        "predict_score": 2.8503319414825463
+    },
+    "02320.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 12.984375,
+            "faint": 4.3203125,
+            "moderate": -1.5234375,
+            "visible": 6.328125,
+            "obvious": 3.779296875
+        },
+        "predict_score": 4.995573232572149
+    },
+    "02321.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 14.3984375,
+            "faint": 10.0546875,
+            "moderate": 7.203125,
+            "visible": 10.203125,
+            "obvious": 6.35546875
+        },
+        "predict_score": 4.940754114184472
+    },
+    "02322.JPEG": {
+        "gt_score": 4.3,
+        "logits": {
+            "invisible": 16.625,
+            "faint": 8.7265625,
+            "moderate": 1.2529296875,
+            "visible": 7.421875,
+            "obvious": 6.08984375
+        },
+        "predict_score": 4.999220130830979
+    },
+    "02323.JPEG": {
+        "gt_score": 0.9,
+        "logits": {
+            "invisible": 10.7265625,
+            "faint": 5.640625,
+            "moderate": 6.328125,
+            "visible": 13.140625,
+            "obvious": 12.8046875
+        },
+        "predict_score": 1.7540618674140571
+    },
+    "02324.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 13.1328125,
+            "faint": 9.6953125,
+            "moderate": 7.015625,
+            "visible": 6.8671875,
+            "obvious": 4.234375
+        },
+        "predict_score": 4.958700525101448
+    },
+    "02325.JPEG": {
+        "gt_score": 5.0,
+        "logits": {
+            "invisible": 15.546875,
+            "faint": 7.42578125,
+            "moderate": 1.337890625,
+            "visible": 5.2734375,
+            "obvious": 3.669921875
+        },
+        "predict_score": 4.999570182816049
+    },
+    "02326.JPEG": {
+        "gt_score": 3.7,
+        "logits": {
+            "invisible": 10.8828125,
+            "faint": 10.5390625,
+            "moderate": 7.0,
+            "visible": 7.83984375,
+            "obvious": 7.7734375
+        },
+        "predict_score": 4.411704639767938
+    },
+    "02327.JPEG": {
+        "gt_score": 3.8,
+        "logits": {
+            "invisible": 12.3515625,
+            "faint": 7.296875,
+            "moderate": 3.943359375,
+            "visible": 7.578125,
+            "obvious": 6.3046875
+        },
+        "predict_score": 4.959072684653848
+    },
+    "02328.JPEG": {
+        "gt_score": 2.7,
+        "logits": {
+            "invisible": 7.51953125,
+            "faint": 10.7265625,
+            "moderate": 11.984375,
+            "visible": 12.5546875,
+            "obvious": 9.484375
+        },
+        "predict_score": 2.483360805730413
+    },
+    "02329.JPEG": {
+        "gt_score": 5.0,
+        "logits": {
+            "invisible": 17.375,
+            "faint": 9.921875,
+            "moderate": -0.5302734375,
+            "visible": 5.515625,
+            "obvious": 4.2578125
+        },
+        "predict_score": 4.999391439996158
+    },
+    "02330.JPEG": {
+        "gt_score": 5.0,
+        "logits": {
+            "invisible": 14.9375,
+            "faint": 9.0625,
+            "moderate": 2.23828125,
+            "visible": 5.60546875,
+            "obvious": 4.375
+        },
+        "predict_score": 4.996825289796493
+    },
+    "02331.JPEG": {
+        "gt_score": 3.0,
+        "logits": {
+            "invisible": 12.6953125,
+            "faint": 10.890625,
+            "moderate": 6.9296875,
+            "visible": 7.546875,
+            "obvious": 6.91796875
+        },
+        "predict_score": 4.829498642942837
+    },
+    "02332.JPEG": {
+        "gt_score": 4.6,
+        "logits": {
+            "invisible": 14.4140625,
+            "faint": 11.7421875,
+            "moderate": 4.63671875,
+            "visible": 9.0859375,
+            "obvious": 8.1171875
+        },
+        "predict_score": 4.915265543128269
+    },
+    "02333.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 14.03125,
+            "faint": 9.21875,
+            "moderate": 5.30078125,
+            "visible": 9.6953125,
+            "obvious": 6.7578125
+        },
+        "predict_score": 4.950596091711392
+    },
+    "02334.JPEG": {
+        "gt_score": 4.8,
+        "logits": {
+            "invisible": 13.953125,
+            "faint": 9.9140625,
+            "moderate": 5.453125,
+            "visible": 5.46875,
+            "obvious": 6.046875
+        },
+        "predict_score": 4.980248611853566
+    },
+    "02335.JPEG": {
+        "gt_score": 4.1,
+        "logits": {
+            "invisible": 13.8515625,
+            "faint": 11.0546875,
+            "moderate": 7.6953125,
+            "visible": 10.3671875,
+            "obvious": 9.3984375
+        },
+        "predict_score": 4.815612916461552
+    },
+    "02336.JPEG": {
+        "gt_score": 2.5,
+        "logits": {
+            "invisible": 12.4609375,
+            "faint": 10.4296875,
+            "moderate": 7.4453125,
+            "visible": 11.1953125,
+            "obvious": 9.8515625
+        },
+        "predict_score": 4.139609148212194
+    },
+    "02337.JPEG": {
+        "gt_score": 4.0,
+        "logits": {
+            "invisible": 14.3125,
+            "faint": 9.3984375,
+            "moderate": 4.36328125,
+            "visible": 5.546875,
+            "obvious": 5.953125
+        },
+        "predict_score": 4.991225366864093
+    },
+    "02338.JPEG": {
+        "gt_score": 4.2,
+        "logits": {
+            "invisible": 13.2421875,
+            "faint": 9.4375,
+            "moderate": 4.7421875,
+            "visible": 8.4375,
+            "obvious": 8.6640625
+        },
+        "predict_score": 4.915130686302933
+    },
+    "02339.JPEG": {
+        "gt_score": 3.8,
+        "logits": {
+            "invisible": 13.46875,
+            "faint": 8.796875,
+            "moderate": 6.96484375,
+            "visible": 11.6484375,
+            "obvious": 9.296875
+        },
+        "predict_score": 4.528745500744892
+    },
+    "02340.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 8.875,
+            "faint": 4.609375,
+            "moderate": 4.46875,
+            "visible": 12.046875,
+            "obvious": 16.0
+        },
+        "predict_score": 1.0220261229562624
+    },
+    "02341.JPEG": {
+        "gt_score": 0.4,
+        "logits": {
+            "invisible": 10.7109375,
+            "faint": 4.80078125,
+            "moderate": 3.876953125,
+            "visible": 12.8359375,
+            "obvious": 14.6484375
+        },
+        "predict_score": 1.2041176599013126
+    },
+    "02342.JPEG": {
+        "gt_score": 3.5,
+        "logits": {
+            "invisible": 9.5,
+            "faint": 10.046875,
+            "moderate": 10.6171875,
+            "visible": 8.3359375,
+            "obvious": 7.78515625
+        },
+        "predict_score": 3.4868548122046734
+    },
+    "02343.JPEG": {
+        "gt_score": 0.8,
+        "logits": {
+            "invisible": 7.2265625,
+            "faint": 1.3427734375,
+            "moderate": -0.07073974609375,
+            "visible": 10.4453125,
+            "obvious": 18.125
+        },
+        "predict_score": 1.0005359895055161
+    },
+    "02344.JPEG": {
+        "gt_score": 5.0,
+        "logits": {
+            "invisible": 14.40625,
+            "faint": 10.0078125,
+            "moderate": 3.712890625,
+            "visible": 7.6875,
+            "obvious": 7.28125
+        },
+        "predict_score": 4.98108607210595
+    },
+    "02345.JPEG": {
+        "gt_score": 3.5,
+        "logits": {
+            "invisible": 6.36328125,
+            "faint": 6.39453125,
+            "moderate": 14.078125,
+            "visible": 11.90625,
+            "obvious": 8.015625
+        },
+        "predict_score": 2.895033674433136
+    },
+    "02346.JPEG": {
+        "gt_score": 4.6,
+        "logits": {
+            "invisible": 16.34375,
+            "faint": 8.578125,
+            "moderate": 3.77734375,
+            "visible": 8.1328125,
+            "obvious": 6.96484375
+        },
+        "predict_score": 4.998417253487667
+    },
+    "02347.JPEG": {
+        "gt_score": 4.4,
+        "logits": {
+            "invisible": 14.015625,
+            "faint": 9.7734375,
+            "moderate": 6.625,
+            "visible": 8.6796875,
+            "obvious": 6.0390625
+        },
+        "predict_score": 4.9691908808961
+    },
+    "02348.JPEG": {
+        "gt_score": 4.2,
+        "logits": {
+            "invisible": 16.265625,
+            "faint": 8.375,
+            "moderate": 5.99609375,
+            "visible": 6.890625,
+            "obvious": 4.80078125
+        },
+        "predict_score": 4.999260365122927
+    },
+    "02349.JPEG": {
+        "gt_score": 4.7,
+        "logits": {
+            "invisible": 16.828125,
+            "faint": 7.15234375,
+            "moderate": 3.970703125,
+            "visible": 5.9765625,
+            "obvious": 2.48828125
+        },
+        "predict_score": 4.999871520988971
+    },
+    "02350.JPEG": {
+        "gt_score": 4.3,
+        "logits": {
+            "invisible": 17.40625,
+            "faint": 9.421875,
+            "moderate": 4.30859375,
+            "visible": 7.55859375,
+            "obvious": 6.80859375
+        },
+        "predict_score": 4.999396897441286
+    },
+    "02351.JPEG": {
+        "gt_score": 4.8,
+        "logits": {
+            "invisible": 12.1796875,
+            "faint": 8.1796875,
+            "moderate": 1.6103515625,
+            "visible": 3.666015625,
+            "obvious": 2.77734375
+        },
+        "predict_score": 4.981053607572785
+    },
+    "02352.JPEG": {
+        "gt_score": 3.6,
+        "logits": {
+            "invisible": 14.1640625,
+            "faint": 8.125,
+            "moderate": 4.59765625,
+            "visible": 4.92578125,
+            "obvious": 4.95703125
+        },
+        "predict_score": 4.996791569303733
+    },
+    "02353.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 15.4375,
+            "faint": 8.8515625,
+            "moderate": 2.6875,
+            "visible": 6.19921875,
+            "obvious": 4.83984375
+        },
+        "predict_score": 4.99822560038268
+    },
+    "02354.JPEG": {
+        "gt_score": 4.8,
+        "logits": {
+            "invisible": 16.3125,
+            "faint": 11.7265625,
+            "moderate": 4.1953125,
+            "visible": 6.6484375,
+            "obvious": 5.03125
+        },
+        "predict_score": 4.989660126333944
+    },
+    "02355.JPEG": {
+        "gt_score": 3.5,
+        "logits": {
+            "invisible": 10.640625,
+            "faint": 10.3203125,
+            "moderate": 12.0078125,
+            "visible": 9.0390625,
+            "obvious": 6.515625
+        },
+        "predict_score": 3.424681103759344
+    },
+    "02356.JPEG": {
+        "gt_score": 3.3,
+        "logits": {
+            "invisible": 9.4296875,
+            "faint": 9.4375,
+            "moderate": 11.171875,
+            "visible": 10.1953125,
+            "obvious": 8.7734375
+        },
+        "predict_score": 2.982662489801302
+    },
+    "02357.JPEG": {
+        "gt_score": 4.7,
+        "logits": {
+            "invisible": 15.5078125,
+            "faint": 7.60546875,
+            "moderate": 2.35546875,
+            "visible": 7.30859375,
+            "obvious": 4.9140625
+        },
+        "predict_score": 4.998702220735687
+    },
+    "02358.JPEG": {
+        "gt_score": 4.3,
+        "logits": {
+            "invisible": 10.859375,
+            "faint": 8.8203125,
+            "moderate": 2.884765625,
+            "visible": 7.546875,
+            "obvious": 6.09765625
+        },
+        "predict_score": 4.766631826465046
+    },
+    "02359.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 13.0859375,
+            "faint": 8.640625,
+            "moderate": 4.6171875,
+            "visible": 7.609375,
+            "obvious": 6.82421875
+        },
+        "predict_score": 4.9682366456018014
+    },
+    "02360.JPEG": {
+        "gt_score": 3.6,
+        "logits": {
+            "invisible": 12.9375,
+            "faint": 10.2734375,
+            "moderate": 10.875,
+            "visible": 11.3671875,
+            "obvious": 10.1953125
+        },
+        "predict_score": 4.179427165297117
+    },
+    "02361.JPEG": {
+        "gt_score": 2.5,
+        "logits": {
+            "invisible": 8.4765625,
+            "faint": 9.5390625,
+            "moderate": 13.890625,
+            "visible": 11.53125,
+            "obvious": 6.4609375
+        },
+        "predict_score": 2.9335927124807717
+    },
+    "02362.JPEG": {
+        "gt_score": 0.5,
+        "logits": {
+            "invisible": 9.5703125,
+            "faint": 4.55859375,
+            "moderate": 4.0703125,
+            "visible": 14.2109375,
+            "obvious": 19.4375
+        },
+        "predict_score": 1.0055507036853972
+    },
+    "02363.JPEG": {
+        "gt_score": 4.7,
+        "logits": {
+            "invisible": 17.15625,
+            "faint": 7.984375,
+            "moderate": 5.76171875,
+            "visible": 7.6171875,
+            "obvious": 5.30859375
+        },
+        "predict_score": 4.999629062718231
+    },
+    "02364.JPEG": {
+        "gt_score": 4.7,
+        "logits": {
+            "invisible": 10.796875,
+            "faint": 7.27734375,
+            "moderate": 3.126953125,
+            "visible": 2.490234375,
+            "obvious": 3.9375
+        },
+        "predict_score": 4.965594019605202
+    },
+    "02365.JPEG": {
+        "gt_score": 4.6,
+        "logits": {
+            "invisible": 10.875,
+            "faint": 7.55859375,
+            "moderate": 5.76953125,
+            "visible": 14.71875,
+            "obvious": 11.9453125
+        },
+        "predict_score": 2.003204545419296
+    },
+    "02366.JPEG": {
+        "gt_score": 5.0,
+        "logits": {
+            "invisible": 14.7109375,
+            "faint": 9.03125,
+            "moderate": 2.65625,
+            "visible": 7.4765625,
+            "obvious": 6.27734375
+        },
+        "predict_score": 4.993567950367335
+    },
+    "02367.JPEG": {
+        "gt_score": 4.3,
+        "logits": {
+            "invisible": 10.765625,
+            "faint": 9.5078125,
+            "moderate": 12.5,
+            "visible": 11.171875,
+            "obvious": 9.3203125
+        },
+        "predict_score": 3.035889271899604
+    },
+    "02368.JPEG": {
+        "gt_score": 4.7,
+        "logits": {
+            "invisible": 14.7734375,
+            "faint": 10.9921875,
+            "moderate": 6.77734375,
+            "visible": 9.6953125,
+            "obvious": 9.0625
+        },
+        "predict_score": 4.946352039510182
+    },
+    "02369.JPEG": {
+        "gt_score": 4.8,
+        "logits": {
+            "invisible": 13.75,
+            "faint": 10.9453125,
+            "moderate": 4.26171875,
+            "visible": 8.890625,
+            "obvious": 6.5234375
+        },
+        "predict_score": 4.918761087722656
+    },
+    "02370.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 16.21875,
+            "faint": 8.375,
+            "moderate": 4.56640625,
+            "visible": 6.48828125,
+            "obvious": 4.2421875
+        },
+        "predict_score": 4.999387200180122
+    },
+    "02371.JPEG": {
+        "gt_score": 4.1,
+        "logits": {
+            "invisible": 17.65625,
+            "faint": 12.0234375,
+            "moderate": 8.25,
+            "visible": 8.9140625,
+            "obvious": 6.30859375
+        },
+        "predict_score": 4.995747083226569
+    },
+    "02372.JPEG": {
+        "gt_score": 4.4,
+        "logits": {
+            "invisible": 14.40625,
+            "faint": 9.484375,
+            "moderate": 11.46875,
+            "visible": 10.3984375,
+            "obvious": 6.23046875
+        },
+        "predict_score": 4.843403647737881
+    },
+    "02373.JPEG": {
+        "gt_score": 4.6,
+        "logits": {
+            "invisible": 14.40625,
+            "faint": 9.265625,
+            "moderate": 2.9296875,
+            "visible": 5.8046875,
+            "obvious": 5.13671875
+        },
+        "predict_score": 4.993238297322206
+    },
+    "02374.JPEG": {
+        "gt_score": 4.2,
+        "logits": {
+            "invisible": 15.453125,
+            "faint": 13.734375,
+            "moderate": 9.1796875,
+            "visible": 8.640625,
+            "obvious": 8.375
+        },
+        "predict_score": 4.839631687228138
+    },
+    "02375.JPEG": {
+        "gt_score": 3.8,
+        "logits": {
+            "invisible": 13.7109375,
+            "faint": 10.296875,
+            "moderate": 9.8125,
+            "visible": 10.375,
+            "obvious": 7.37890625
+        },
+        "predict_score": 4.828239582049364
+    },
+    "02376.JPEG": {
+        "gt_score": 2.3,
+        "logits": {
+            "invisible": 10.3046875,
+            "faint": 6.98046875,
+            "moderate": 11.1328125,
+            "visible": 10.9921875,
+            "obvious": 8.7109375
+        },
+        "predict_score": 2.9349163533047675
+    },
+    "02377.JPEG": {
+        "gt_score": 0.5,
+        "logits": {
+            "invisible": 6.94921875,
+            "faint": -0.416748046875,
+            "moderate": 9.3125,
+            "visible": 12.78125,
+            "obvious": 11.1640625
+        },
+        "predict_score": 1.8714043383485603
+    },
+    "02378.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 14.3046875,
+            "faint": 9.515625,
+            "moderate": 4.78125,
+            "visible": 7.36328125,
+            "obvious": 4.1171875
+        },
+        "predict_score": 4.988589467285188
+    },
+    "02379.JPEG": {
+        "gt_score": 1.2,
+        "logits": {
+            "invisible": 8.8515625,
+            "faint": 7.046875,
+            "moderate": 14.828125,
+            "visible": 15.96875,
+            "obvious": 11.0
+        },
+        "predict_score": 2.237562101189225
+    },
+    "02380.JPEG": {
+        "gt_score": 4.9,
+        "logits": {
+            "invisible": 8.921875,
+            "faint": 0.7109375,
+            "moderate": 1.880859375,
+            "visible": 14.625,
+            "obvious": 17.0
+        },
+        "predict_score": 1.0862106744316529
+    },
+    "02381.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 14.2109375,
+            "faint": 8.7734375,
+            "moderate": 4.42578125,
+            "visible": 7.73046875,
+            "obvious": 5.61328125
+        },
+        "predict_score": 4.9902593203555385
+    },
+    "02382.JPEG": {
+        "gt_score": 2.3,
+        "logits": {
+            "invisible": 10.5859375,
+            "faint": 10.5390625,
+            "moderate": 14.4375,
+            "visible": 11.75,
+            "obvious": 7.23046875
+        },
+        "predict_score": 2.9939053418495813
+    },
+    "02383.JPEG": {
+        "gt_score": 4.2,
+        "logits": {
+            "invisible": 9.75,
+            "faint": 5.19921875,
+            "moderate": 2.45703125,
+            "visible": 8.625,
+            "obvious": 7.55859375
+        },
+        "predict_score": 4.010179476233489
+    },
+    "02384.JPEG": {
+        "gt_score": 4.4,
+        "logits": {
+            "invisible": 13.6015625,
+            "faint": 8.65625,
+            "moderate": 7.67578125,
+            "visible": 10.328125,
+            "obvious": 8.609375
+        },
+        "predict_score": 4.854666553588089
+    },
+    "02385.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 14.5859375,
+            "faint": 9.484375,
+            "moderate": 5.203125,
+            "visible": 7.2421875,
+            "obvious": 7.34765625
+        },
+        "predict_score": 4.989013212103665
+    },
+    "02386.JPEG": {
+        "gt_score": 2.4,
+        "logits": {
+            "invisible": 9.34375,
+            "faint": 11.515625,
+            "moderate": 10.7734375,
+            "visible": 10.40625,
+            "obvious": 7.92578125
+        },
+        "predict_score": 3.4328622748922237
+    },
+    "02387.JPEG": {
+        "gt_score": 4.2,
+        "logits": {
+            "invisible": 13.7890625,
+            "faint": 9.1640625,
+            "moderate": 5.3671875,
+            "visible": 7.21484375,
+            "obvious": 6.38671875
+        },
+        "predict_score": 4.983329896984795
+    },
+    "02388.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 15.4921875,
+            "faint": 9.3828125,
+            "moderate": 6.88671875,
+            "visible": 9.2265625,
+            "obvious": 7.3125
+        },
+        "predict_score": 4.990632083669438
+    },
+    "02389.JPEG": {
+        "gt_score": 4.6,
+        "logits": {
+            "invisible": 17.109375,
+            "faint": 11.0546875,
+            "moderate": 4.71875,
+            "visible": 8.9296875,
+            "obvious": 3.0859375
+        },
+        "predict_score": 4.996809130896714
+    },
+    "02390.JPEG": {
+        "gt_score": 4.9,
+        "logits": {
+            "invisible": 14.28125,
+            "faint": 11.0546875,
+            "moderate": 7.2734375,
+            "visible": 7.828125,
+            "obvious": 6.30078125
+        },
+        "predict_score": 4.954342797893644
+    },
+    "02391.JPEG": {
+        "gt_score": 4.1,
+        "logits": {
+            "invisible": 15.640625,
+            "faint": 5.75,
+            "moderate": -0.03741455078125,
+            "visible": 6.58984375,
+            "obvious": 6.640625
+        },
+        "predict_score": 4.999103766122961
+    },
+    "02392.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 11.7421875,
+            "faint": 4.17578125,
+            "moderate": 1.3955078125,
+            "visible": 3.4296875,
+            "obvious": 2.83984375
+        },
+        "predict_score": 4.9981394173783205
+    },
+    "02393.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 14.890625,
+            "faint": 10.3125,
+            "moderate": 6.109375,
+            "visible": 8.578125,
+            "obvious": 4.953125
+        },
+        "predict_score": 4.983981749469018
+    },
+    "02394.JPEG": {
+        "gt_score": 4.8,
+        "logits": {
+            "invisible": 17.375,
+            "faint": 11.1796875,
+            "moderate": 5.90234375,
+            "visible": 9.2890625,
+            "obvious": 8.625
+        },
+        "predict_score": 4.996391930256096
+    },
+    "02395.JPEG": {
+        "gt_score": 4.7,
+        "logits": {
+            "invisible": 12.53125,
+            "faint": 7.18359375,
+            "moderate": 1.580078125,
+            "visible": 4.25,
+            "obvious": 4.0
+        },
+        "predict_score": 4.993690121284781
+    },
+    "02396.JPEG": {
+        "gt_score": 4.4,
+        "logits": {
+            "invisible": 15.484375,
+            "faint": 9.5078125,
+            "moderate": 7.80078125,
+            "visible": 7.53125,
+            "obvious": 5.28515625
+        },
+        "predict_score": 4.995354081600476
+    },
+    "02397.JPEG": {
+        "gt_score": 0.5,
+        "logits": {
+            "invisible": 10.8515625,
+            "faint": 7.5546875,
+            "moderate": 6.3046875,
+            "visible": 10.25,
+            "obvious": 8.6171875
+        },
+        "predict_score": 3.748805516694572
+    },
+    "02398.JPEG": {
+        "gt_score": 0.5,
+        "logits": {
+            "invisible": 9.7734375,
+            "faint": 4.1328125,
+            "moderate": 2.998046875,
+            "visible": 12.296875,
+            "obvious": 14.9140625
+        },
+        "predict_score": 1.0894435977513939
+    },
+    "02399.JPEG": {
+        "gt_score": 1.8,
+        "logits": {
+            "invisible": 8.8984375,
+            "faint": 0.1474609375,
+            "moderate": 3.099609375,
+            "visible": 14.6875,
+            "obvious": 17.515625
+        },
+        "predict_score": 1.0564980388412013
+    },
+    "02400.JPEG": {
+        "gt_score": 4.3,
+        "logits": {
+            "invisible": 12.109375,
+            "faint": 10.0,
+            "moderate": 7.7578125,
+            "visible": 7.61328125,
+            "obvious": 5.5234375
+        },
+        "predict_score": 4.837745034444154
+    },
+    "02401.JPEG": {
+        "gt_score": 4.3,
+        "logits": {
+            "invisible": 16.859375,
+            "faint": 8.3125,
+            "moderate": 3.44921875,
+            "visible": 7.73046875,
+            "obvious": 7.796875
+        },
+        "predict_score": 4.9990140799589335
+    },
+    "02402.JPEG": {
+        "gt_score": 4.4,
+        "logits": {
+            "invisible": 7.43359375,
+            "faint": 6.69140625,
+            "moderate": 11.046875,
+            "visible": 11.875,
+            "obvious": 9.9296875
+        },
+        "predict_score": 2.213172664487773
+    },
+    "02403.JPEG": {
+        "gt_score": 0.7,
+        "logits": {
+            "invisible": 10.3828125,
+            "faint": 8.2265625,
+            "moderate": 7.484375,
+            "visible": 12.5625,
+            "obvious": 10.625
+        },
+        "predict_score": 2.178287920250143
+    },
+    "02404.JPEG": {
+        "gt_score": 2.5,
+        "logits": {
+            "invisible": 10.71875,
+            "faint": 8.4453125,
+            "moderate": 2.16015625,
+            "visible": 6.9921875,
+            "obvious": 1.6474609375
+        },
+        "predict_score": 4.843855910372173
+    },
+    "02405.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 14.671875,
+            "faint": 10.90625,
+            "moderate": 4.9609375,
+            "visible": 5.6953125,
+            "obvious": 6.71484375
+        },
+        "predict_score": 4.9755256593255
+    },
+    "02406.JPEG": {
+        "gt_score": 4.8,
+        "logits": {
+            "invisible": 15.171875,
+            "faint": 6.203125,
+            "moderate": 2.79296875,
+            "visible": 6.05859375,
+            "obvious": 1.8486328125
+        },
+        "predict_score": 4.999527253272628
+    },
+    "02407.JPEG": {
+        "gt_score": 4.8,
+        "logits": {
+            "invisible": 18.625,
+            "faint": 10.4609375,
+            "moderate": 5.52734375,
+            "visible": 10.09375,
+            "obvious": 6.22265625
+        },
+        "predict_score": 4.999103573321048
+    },
+    "02408.JPEG": {
+        "gt_score": 0.5,
+        "logits": {
+            "invisible": 9.21875,
+            "faint": 3.720703125,
+            "moderate": 5.65625,
+            "visible": 16.90625,
+            "obvious": 16.609375
+        },
+        "predict_score": 1.5745926917533326
+    },
+    "02409.JPEG": {
+        "gt_score": 4.3,
+        "logits": {
+            "invisible": 16.828125,
+            "faint": 9.9140625,
+            "moderate": 3.9140625,
+            "visible": 8.421875,
+            "obvious": 5.72265625
+        },
+        "predict_score": 4.998272974873007
+    },
+    "02410.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 12.6953125,
+            "faint": 9.3671875,
+            "moderate": 10.046875,
+            "visible": 6.84375,
+            "obvious": 4.06640625
+        },
+        "predict_score": 4.831729916251793
+    },
+    "02411.JPEG": {
+        "gt_score": 4.2,
+        "logits": {
+            "invisible": 18.0625,
+            "faint": 7.0078125,
+            "moderate": 1.2685546875,
+            "visible": 5.94921875,
+            "obvious": 5.32421875
+        },
+        "predict_score": 4.999955881853657
+    },
+    "02412.JPEG": {
+        "gt_score": 4.7,
+        "logits": {
+            "invisible": 16.75,
+            "faint": 10.1484375,
+            "moderate": 2.673828125,
+            "visible": 7.234375,
+            "obvious": 4.62109375
+        },
+        "predict_score": 4.998399837483616
+    },
+    "02413.JPEG": {
+        "gt_score": 4.9,
+        "logits": {
+            "invisible": 15.25,
+            "faint": 10.2890625,
+            "moderate": 6.04296875,
+            "visible": 5.71484375,
+            "obvious": 6.0703125
+        },
+        "predict_score": 4.992220383348763
+    },
+    "02414.JPEG": {
+        "gt_score": 3.4,
+        "logits": {
+            "invisible": 11.4453125,
+            "faint": 11.03125,
+            "moderate": 9.859375,
+            "visible": 9.375,
+            "obvious": 7.13671875
+        },
+        "predict_score": 4.250631141019079
+    },
+    "02415.JPEG": {
+        "gt_score": 4.6,
+        "logits": {
+            "invisible": 14.9140625,
+            "faint": 8.5,
+            "moderate": 4.078125,
+            "visible": 4.87890625,
+            "obvious": 5.43359375
+        },
+        "predict_score": 4.997889232076979
+    },
+    "02416.JPEG": {
+        "gt_score": 2.5,
+        "logits": {
+            "invisible": 12.8046875,
+            "faint": 11.0234375,
+            "moderate": 10.40625,
+            "visible": 13.0625,
+            "obvious": 9.703125
+        },
+        "predict_score": 3.301872294157874
+    },
+    "02417.JPEG": {
+        "gt_score": 4.7,
+        "logits": {
+            "invisible": 16.40625,
+            "faint": 8.4765625,
+            "moderate": 3.97265625,
+            "visible": 5.94921875,
+            "obvious": 4.57421875
+        },
+        "predict_score": 4.999517020940554
+    },
+    "02418.JPEG": {
+        "gt_score": 3.8,
+        "logits": {
+            "invisible": 14.34375,
+            "faint": 8.2109375,
+            "moderate": 5.19140625,
+            "visible": 7.10546875,
+            "obvious": 4.8671875
+        },
+        "predict_score": 4.995170280154394
+    },
+    "02419.JPEG": {
+        "gt_score": 4.3,
+        "logits": {
+            "invisible": 8.4765625,
+            "faint": 12.1953125,
+            "moderate": 7.890625,
+            "visible": 9.15625,
+            "obvious": 7.734375
+        },
+        "predict_score": 3.8909452693623066
+    },
+    "02420.JPEG": {
+        "gt_score": 0.6,
+        "logits": {
+            "invisible": 7.83203125,
+            "faint": 3.22265625,
+            "moderate": 4.66015625,
+            "visible": 13.078125,
+            "obvious": 13.09375
+        },
+        "predict_score": 1.5054553239956534
+    },
+    "02421.JPEG": {
+        "gt_score": 4.7,
+        "logits": {
+            "invisible": 16.890625,
+            "faint": 9.3046875,
+            "moderate": 6.51953125,
+            "visible": 10.859375,
+            "obvious": 5.19140625
+        },
+        "predict_score": 4.992212114619079
+    },
+    "02422.JPEG": {
+        "gt_score": 3.9,
+        "logits": {
+            "invisible": 11.8046875,
+            "faint": 12.21875,
+            "moderate": 12.578125,
+            "visible": 10.8984375,
+            "obvious": 7.79296875
+        },
+        "predict_score": 3.602221439501566
+    },
+    "02423.JPEG": {
+        "gt_score": 4.7,
+        "logits": {
+            "invisible": 14.0859375,
+            "faint": 7.80078125,
+            "moderate": 3.109375,
+            "visible": 4.96484375,
+            "obvious": 3.8828125
+        },
+        "predict_score": 4.997630619607992
+    },
+    "02424.JPEG": {
+        "gt_score": 5.0,
+        "logits": {
+            "invisible": 14.28125,
+            "faint": 10.7265625,
+            "moderate": 2.89453125,
+            "visible": 5.625,
+            "obvious": 5.42578125
+        },
+        "predict_score": 4.971129384286898
+    },
+    "02425.JPEG": {
+        "gt_score": 0.5,
+        "logits": {
+            "invisible": 7.94921875,
+            "faint": 1.13671875,
+            "moderate": 5.32421875,
+            "visible": 13.96875,
+            "obvious": 13.1171875
+        },
+        "predict_score": 1.7066697111637343
+    },
+    "02426.JPEG": {
+        "gt_score": 2.6,
+        "logits": {
+            "invisible": 11.8984375,
+            "faint": 9.1796875,
+            "moderate": 3.859375,
+            "visible": 5.92578125,
+            "obvious": 4.31640625
+        },
+        "predict_score": 4.92866337970115
+    },
+    "02427.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 11.2734375,
+            "faint": 11.125,
+            "moderate": 6.078125,
+            "visible": 7.01953125,
+            "obvious": 5.6953125
+        },
+        "predict_score": 4.506315820825718
+    },
+    "02428.JPEG": {
+        "gt_score": 3.8,
+        "logits": {
+            "invisible": 15.4296875,
+            "faint": 10.796875,
+            "moderate": 5.30078125,
+            "visible": 7.4609375,
+            "obvious": 4.45703125
+        },
+        "predict_score": 4.989195284283472
+    },
+    "02429.JPEG": {
+        "gt_score": 1.2,
+        "logits": {
+            "invisible": 9.9609375,
+            "faint": 6.6953125,
+            "moderate": 11.546875,
+            "visible": 12.7421875,
+            "obvious": 10.1953125
+        },
+        "predict_score": 2.2870738459791955
+    },
+    "02430.JPEG": {
+        "gt_score": 1.9,
+        "logits": {
+            "invisible": 11.71875,
+            "faint": 7.23046875,
+            "moderate": 14.1796875,
+            "visible": 14.140625,
+            "obvious": 13.21875
+        },
+        "predict_score": 2.3601873356832876
+    },
+    "02431.JPEG": {
+        "gt_score": 2.4,
+        "logits": {
+            "invisible": 8.8515625,
+            "faint": 6.87890625,
+            "moderate": 6.45703125,
+            "visible": 11.0546875,
+            "obvious": 9.46875
+        },
+        "predict_score": 2.1248783351514033
+    },
+    "02432.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 12.796875,
+            "faint": 11.546875,
+            "moderate": 8.15625,
+            "visible": 10.6484375,
+            "obvious": 6.38671875
+        },
+        "predict_score": 4.531706386153217
+    },
+    "02433.JPEG": {
+        "gt_score": 3.6,
+        "logits": {
+            "invisible": 12.2265625,
+            "faint": 9.3359375,
+            "moderate": 7.6953125,
+            "visible": 11.0703125,
+            "obvious": 9.0234375
+        },
+        "predict_score": 4.167415954551145
+    },
+    "02434.JPEG": {
+        "gt_score": 4.6,
+        "logits": {
+            "invisible": 16.484375,
+            "faint": 11.75,
+            "moderate": 3.626953125,
+            "visible": 7.46875,
+            "obvious": 6.4765625
+        },
+        "predict_score": 4.990745068218633
+    },
+    "02435.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 8.484375,
+            "faint": 9.4453125,
+            "moderate": 12.25,
+            "visible": 10.40625,
+            "obvious": 8.296875
+        },
+        "predict_score": 2.928807767898516
+    },
+    "02436.JPEG": {
+        "gt_score": 3.9,
+        "logits": {
+            "invisible": 16.609375,
+            "faint": 11.0078125,
+            "moderate": 5.296875,
+            "visible": 6.98828125,
+            "obvious": 4.8984375
+        },
+        "predict_score": 4.996066575432028
+    },
+    "02437.JPEG": {
+        "gt_score": 4.1,
+        "logits": {
+            "invisible": 14.6953125,
+            "faint": 11.796875,
+            "moderate": 6.8671875,
+            "visible": 8.6484375,
+            "obvious": 4.69140625
+        },
+        "predict_score": 4.940276452477153
+    },
+    "02438.JPEG": {
+        "gt_score": 3.8,
+        "logits": {
+            "invisible": 13.296875,
+            "faint": 12.4609375,
+            "moderate": 10.171875,
+            "visible": 11.6015625,
+            "obvious": 7.609375
+        },
+        "predict_score": 4.3477756968332715
+    },
+    "02439.JPEG": {
+        "gt_score": 3.6,
+        "logits": {
+            "invisible": 14.4140625,
+            "faint": 8.046875,
+            "moderate": 4.13671875,
+            "visible": 7.125,
+            "obvious": 6.47265625
+        },
+        "predict_score": 4.994757111167847
+    },
+    "02440.JPEG": {
+        "gt_score": 2.7,
+        "logits": {
+            "invisible": 13.2265625,
+            "faint": 10.0234375,
+            "moderate": 12.21875,
+            "visible": 13.9296875,
+            "obvious": 10.546875
+        },
+        "predict_score": 2.9666342471233507
+    },
+    "02441.JPEG": {
+        "gt_score": 3.4,
+        "logits": {
+            "invisible": 11.421875,
+            "faint": 11.2890625,
+            "moderate": 9.03125,
+            "visible": 9.1015625,
+            "obvious": 7.04296875
+        },
+        "predict_score": 4.324509104926522
+    },
+    "02442.JPEG": {
+        "gt_score": 2.5,
+        "logits": {
+            "invisible": 10.9375,
+            "faint": 10.953125,
+            "moderate": 12.796875,
+            "visible": 11.875,
+            "obvious": 8.359375
+        },
+        "predict_score": 3.0280457732038855
+    },
+    "02443.JPEG": {
+        "gt_score": 3.3,
+        "logits": {
+            "invisible": 14.1953125,
+            "faint": 12.1875,
+            "moderate": 11.234375,
+            "visible": 10.1640625,
+            "obvious": 8.8671875
+        },
+        "predict_score": 4.743110206788923
+    },
+    "02444.JPEG": {
+        "gt_score": 2.9,
+        "logits": {
+            "invisible": 11.8984375,
+            "faint": 4.94921875,
+            "moderate": 8.828125,
+            "visible": 18.15625,
+            "obvious": 15.5390625
+        },
+        "predict_score": 1.9375179790800665
+    },
+    "02445.JPEG": {
+        "gt_score": 3.9,
+        "logits": {
+            "invisible": 11.625,
+            "faint": 9.4921875,
+            "moderate": 6.1484375,
+            "visible": 9.53125,
+            "obvious": 7.7578125
+        },
+        "predict_score": 4.541996491490579
+    },
+    "02446.JPEG": {
+        "gt_score": 4.8,
+        "logits": {
+            "invisible": 11.5859375,
+            "faint": 10.84375,
+            "moderate": 9.125,
+            "visible": 9.8671875,
+            "obvious": 5.87890625
+        },
+        "predict_score": 4.3131222010861885
+    },
+    "02447.JPEG": {
+        "gt_score": 4.7,
+        "logits": {
+            "invisible": 15.46875,
+            "faint": 6.96484375,
+            "moderate": 2.0703125,
+            "visible": 5.65625,
+            "obvious": 2.95703125
+        },
+        "predict_score": 4.99961536961984
+    },
+    "02448.JPEG": {
+        "gt_score": 1.1,
+        "logits": {
+            "invisible": 10.2109375,
+            "faint": 6.96484375,
+            "moderate": 7.66015625,
+            "visible": 14.3125,
+            "obvious": 13.734375
+        },
+        "predict_score": 1.6779032780960565
+    },
+    "02449.JPEG": {
+        "gt_score": 2.8,
+        "logits": {
+            "invisible": 10.625,
+            "faint": 9.109375,
+            "moderate": 11.8125,
+            "visible": 11.2578125,
+            "obvious": 6.75
+        },
+        "predict_score": 3.0461190659145982
+    },
+    "02450.JPEG": {
+        "gt_score": 1.5,
+        "logits": {
+            "invisible": 11.046875,
+            "faint": 6.73046875,
+            "moderate": 1.8974609375,
+            "visible": 8.2109375,
+            "obvious": 6.66015625
+        },
+        "predict_score": 4.779341857152822
+    },
+    "02451.JPEG": {
+        "gt_score": 2.9,
+        "logits": {
+            "invisible": 13.8359375,
+            "faint": 8.53125,
+            "moderate": 6.234375,
+            "visible": 8.234375,
+            "obvious": 4.0078125
+        },
+        "predict_score": 4.98289805930217
+    },
+    "02452.JPEG": {
+        "gt_score": 0.3,
+        "logits": {
+            "invisible": 12.8984375,
+            "faint": 3.892578125,
+            "moderate": 3.2578125,
+            "visible": 13.6171875,
+            "obvious": 15.6796875
+        },
+        "predict_score": 1.315371279214102
+    },
+    "02453.JPEG": {
+        "gt_score": 1.3,
+        "logits": {
+            "invisible": 11.4296875,
+            "faint": 4.51953125,
+            "moderate": 5.86328125,
+            "visible": 13.1796875,
+            "obvious": 14.0546875
+        },
+        "predict_score": 1.4748708672737256
+    },
+    "02454.JPEG": {
+        "gt_score": 4.8,
+        "logits": {
+            "invisible": 22.09375,
+            "faint": 9.6953125,
+            "moderate": 5.3515625,
+            "visible": 9.53125,
+            "obvious": 6.40625
+        },
+        "predict_score": 4.999984650072261
+    },
+    "02455.JPEG": {
+        "gt_score": 4.8,
+        "logits": {
+            "invisible": 15.25,
+            "faint": 8.4765625,
+            "moderate": 2.927734375,
+            "visible": 7.9375,
+            "obvious": 6.90625
+        },
+        "predict_score": 4.9959027974688315
+    },
+    "02456.JPEG": {
+        "gt_score": 4.4,
+        "logits": {
+            "invisible": 15.3203125,
+            "faint": 9.3046875,
+            "moderate": 2.701171875,
+            "visible": 5.203125,
+            "obvious": 4.64453125
+        },
+        "predict_score": 4.997346185485257
+    },
+    "02457.JPEG": {
+        "gt_score": 4.3,
+        "logits": {
+            "invisible": 16.21875,
+            "faint": 9.7734375,
+            "moderate": 4.44140625,
+            "visible": 8.296875,
+            "obvious": 4.9140625
+        },
+        "predict_score": 4.997264664111549
+    },
+    "02458.JPEG": {
+        "gt_score": 0.6,
+        "logits": {
+            "invisible": 11.6953125,
+            "faint": 8.390625,
+            "moderate": 11.3671875,
+            "visible": 11.5078125,
+            "obvious": 9.671875
+        },
+        "predict_score": 3.347022498128911
+    },
+    "02459.JPEG": {
+        "gt_score": 3.3,
+        "logits": {
+            "invisible": 12.890625,
+            "faint": 11.09375,
+            "moderate": 13.625,
+            "visible": 9.125,
+            "obvious": 7.2421875
+        },
+        "predict_score": 3.651764194289843
+    },
+    "02460.JPEG": {
+        "gt_score": 1.5,
+        "logits": {
+            "invisible": 6.328125,
+            "faint": 3.44921875,
+            "moderate": 9.0703125,
+            "visible": 13.9453125,
+            "obvious": 11.2890625
+        },
+        "predict_score": 1.943391311400143
+    },
+    "02461.JPEG": {
+        "gt_score": 2.2,
+        "logits": {
+            "invisible": 9.4296875,
+            "faint": 8.84375,
+            "moderate": 14.0,
+            "visible": 12.140625,
+            "obvious": 10.203125
+        },
+        "predict_score": 2.8541617464799165
+    },
+    "02462.JPEG": {
+        "gt_score": 2.9,
+        "logits": {
+            "invisible": 10.6015625,
+            "faint": 6.078125,
+            "moderate": 11.171875,
+            "visible": 13.0703125,
+            "obvious": 9.734375
+        },
+        "predict_score": 2.291214198536326
+    },
+    "02463.JPEG": {
+        "gt_score": 4.0,
+        "logits": {
+            "invisible": 12.9375,
+            "faint": 12.46875,
+            "moderate": 9.53125,
+            "visible": 7.28515625,
+            "obvious": 8.0546875
+        },
+        "predict_score": 4.561119649981566
+    },
+    "02464.JPEG": {
+        "gt_score": 2.5,
+        "logits": {
+            "invisible": 9.6796875,
+            "faint": 4.03515625,
+            "moderate": 7.59765625,
+            "visible": 14.1171875,
+            "obvious": 13.59375
+        },
+        "predict_score": 1.654104892645272
+    },
+    "02465.JPEG": {
+        "gt_score": 1.1,
+        "logits": {
+            "invisible": 9.1015625,
+            "faint": 5.63671875,
+            "moderate": 8.25,
+            "visible": 16.65625,
+            "obvious": 14.359375
+        },
+        "predict_score": 1.9103402980831599
+    },
+    "02466.JPEG": {
+        "gt_score": 2.3,
+        "logits": {
+            "invisible": 8.6484375,
+            "faint": 11.640625,
+            "moderate": 14.078125,
+            "visible": 12.6640625,
+            "obvious": 10.765625
+        },
+        "predict_score": 2.839678572038978
+    },
+    "02467.JPEG": {
+        "gt_score": 4.6,
+        "logits": {
+            "invisible": 13.8828125,
+            "faint": 9.03125,
+            "moderate": 4.671875,
+            "visible": 7.80859375,
+            "obvious": 7.45703125
+        },
+        "predict_score": 4.978852877153686
+    },
+    "02468.JPEG": {
+        "gt_score": 2.7,
+        "logits": {
+            "invisible": 8.8046875,
+            "faint": 8.140625,
+            "moderate": 10.8671875,
+            "visible": 13.03125,
+            "obvious": 9.453125
+        },
+        "predict_score": 2.125135115153572
+    },
+    "02469.JPEG": {
+        "gt_score": 1.5,
+        "logits": {
+            "invisible": 9.65625,
+            "faint": 4.71484375,
+            "moderate": 8.015625,
+            "visible": 9.9140625,
+            "obvious": 11.15625
+        },
+        "predict_score": 1.817460265705996
+    },
+    "02470.JPEG": {
+        "gt_score": 3.3,
+        "logits": {
+            "invisible": 11.9140625,
+            "faint": 11.25,
+            "moderate": 13.0703125,
+            "visible": 12.0390625,
+            "obvious": 8.890625
+        },
+        "predict_score": 3.2186284853297646
+    },
+    "02471.JPEG": {
+        "gt_score": 4.8,
+        "logits": {
+            "invisible": 15.796875,
+            "faint": 7.28125,
+            "moderate": 2.470703125,
+            "visible": 6.9765625,
+            "obvious": 5.87109375
+        },
+        "predict_score": 4.999158062009257
+    },
+    "02472.JPEG": {
+        "gt_score": 5.0,
+        "logits": {
+            "invisible": 13.6796875,
+            "faint": 7.91796875,
+            "moderate": 3.63671875,
+            "visible": 5.34765625,
+            "obvious": 4.5859375
+        },
+        "predict_score": 4.995611352818388
+    },
+    "02473.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 13.5,
+            "faint": 9.859375,
+            "moderate": 4.72265625,
+            "visible": 8.1171875,
+            "obvious": 5.390625
+        },
+        "predict_score": 4.959728149164515
+    },
+    "02474.JPEG": {
+        "gt_score": 3.5,
+        "logits": {
+            "invisible": 10.296875,
+            "faint": 8.171875,
+            "moderate": 12.6015625,
+            "visible": 10.3359375,
+            "obvious": 7.703125
+        },
+        "predict_score": 3.075896770709071
+    },
+    "02475.JPEG": {
+        "gt_score": 4.7,
+        "logits": {
+            "invisible": 14.578125,
+            "faint": 9.6328125,
+            "moderate": 3.056640625,
+            "visible": 7.890625,
+            "obvious": 9.8203125
+        },
+        "predict_score": 4.955540738800541
+    },
+    "02476.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 15.6796875,
+            "faint": 6.9296875,
+            "moderate": 0.8544921875,
+            "visible": 6.953125,
+            "obvious": 4.6875
+        },
+        "predict_score": 4.99928706273584
+    },
+    "02477.JPEG": {
+        "gt_score": 3.7,
+        "logits": {
+            "invisible": 15.078125,
+            "faint": 12.0625,
+            "moderate": 8.6640625,
+            "visible": 8.484375,
+            "obvious": 7.94921875
+        },
+        "predict_score": 4.943385624763366
+    },
+    "02478.JPEG": {
+        "gt_score": 4.4,
+        "logits": {
+            "invisible": 16.390625,
+            "faint": 11.4296875,
+            "moderate": 5.55859375,
+            "visible": 9.640625,
+            "obvious": 6.06640625
+        },
+        "predict_score": 4.989397435860848
+    },
+    "02479.JPEG": {
+        "gt_score": 4.2,
+        "logits": {
+            "invisible": 16.0625,
+            "faint": 10.9765625,
+            "moderate": 7.984375,
+            "visible": 8.0703125,
+            "obvious": 7.69140625
+        },
+        "predict_score": 4.991317600633355
+    },
+    "02480.JPEG": {
+        "gt_score": 4.2,
+        "logits": {
+            "invisible": 14.125,
+            "faint": 9.84375,
+            "moderate": 9.8515625,
+            "visible": 9.9453125,
+            "obvious": 7.4375
+        },
+        "predict_score": 4.91134000032387
+    },
+    "02481.JPEG": {
+        "gt_score": 0.3,
+        "logits": {
+            "invisible": 7.07421875,
+            "faint": 1.1318359375,
+            "moderate": 0.71826171875,
+            "visible": 13.3671875,
+            "obvious": 16.015625
+        },
+        "predict_score": 1.066567431773268
+    },
+    "02482.JPEG": {
+        "gt_score": 2.7,
+        "logits": {
+            "invisible": 10.9921875,
+            "faint": 7.85546875,
+            "moderate": 9.375,
+            "visible": 10.84375,
+            "obvious": 9.4375
+        },
+        "predict_score": 3.32777450617473
+    },
+    "02483.JPEG": {
+        "gt_score": 1.3,
+        "logits": {
+            "invisible": 8.5859375,
+            "faint": 3.935546875,
+            "moderate": 12.3984375,
+            "visible": 14.25,
+            "obvious": 12.3515625
+        },
+        "predict_score": 2.013478382363773
+    },
+    "02484.JPEG": {
+        "gt_score": 2.3,
+        "logits": {
+            "invisible": 10.3359375,
+            "faint": 11.21875,
+            "moderate": 13.8671875,
+            "visible": 14.4609375,
+            "obvious": 10.0546875
+        },
+        "predict_score": 2.4116198907565796
+    },
+    "02485.JPEG": {
+        "gt_score": 1.8,
+        "logits": {
+            "invisible": 9.296875,
+            "faint": 6.671875,
+            "moderate": 7.15234375,
+            "visible": 17.109375,
+            "obvious": 14.328125
+        },
+        "predict_score": 1.9429229701952409
+    },
+    "02486.JPEG": {
+        "gt_score": 2.4,
+        "logits": {
+            "invisible": 8.21875,
+            "faint": 9.203125,
+            "moderate": 13.015625,
+            "visible": 12.84375,
+            "obvious": 10.046875
+        },
+        "predict_score": 2.5289451285367983
+    },
+    "02487.JPEG": {
+        "gt_score": 4.6,
+        "logits": {
+            "invisible": 16.0,
+            "faint": 6.515625,
+            "moderate": 4.68359375,
+            "visible": 6.53125,
+            "obvious": 6.125
+        },
+        "predict_score": 4.999462279782367
+    },
+    "02488.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 12.0546875,
+            "faint": 11.78125,
+            "moderate": 5.83984375,
+            "visible": 4.6171875,
+            "obvious": 5.5078125
+        },
+        "predict_score": 4.562403038628573
+    },
+    "02489.JPEG": {
+        "gt_score": 4.3,
+        "logits": {
+            "invisible": 15.546875,
+            "faint": 7.60546875,
+            "moderate": 4.52734375,
+            "visible": 9.640625,
+            "obvious": 6.8046875
+        },
+        "predict_score": 4.9908354131879245
+    },
+    "02490.JPEG": {
+        "gt_score": 0.7,
+        "logits": {
+            "invisible": 6.4296875,
+            "faint": -0.1588134765625,
+            "moderate": -2.591796875,
+            "visible": 11.3125,
+            "obvious": 16.6875
+        },
+        "predict_score": 1.0047492412114334
+    },
+    "02491.JPEG": {
+        "gt_score": 4.3,
+        "logits": {
+            "invisible": 17.28125,
+            "faint": 8.4453125,
+            "moderate": 4.28125,
+            "visible": 6.62890625,
+            "obvious": 3.31640625
+        },
+        "predict_score": 4.999775724469231
+    },
+    "02492.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 16.421875,
+            "faint": 7.2578125,
+            "moderate": 2.91796875,
+            "visible": 6.30859375,
+            "obvious": 6.1875
+        },
+        "predict_score": 4.9996273303382965
+    },
+    "02493.JPEG": {
+        "gt_score": 4.2,
+        "logits": {
+            "invisible": 12.7265625,
+            "faint": 9.0859375,
+            "moderate": 7.7578125,
+            "visible": 6.97265625,
+            "obvious": 5.87109375
+        },
+        "predict_score": 4.948077096960152
+    },
+    "02494.JPEG": {
+        "gt_score": 3.4,
+        "logits": {
+            "invisible": 9.2734375,
+            "faint": 6.77734375,
+            "moderate": 9.28125,
+            "visible": 12.0390625,
+            "obvious": 10.5390625
+        },
+        "predict_score": 2.0291457202682053
+    },
+    "02495.JPEG": {
+        "gt_score": 3.5,
+        "logits": {
+            "invisible": 9.9375,
+            "faint": 9.1171875,
+            "moderate": 13.1953125,
+            "visible": 12.21875,
+            "obvious": 9.1796875
+        },
+        "predict_score": 2.7801569655361673
+    },
+    "02496.JPEG": {
+        "gt_score": 4.5,
+        "logits": {
+            "invisible": 12.609375,
+            "faint": 11.71875,
+            "moderate": 9.09375,
+            "visible": 10.875,
+            "obvious": 9.015625
+        },
+        "predict_score": 4.325256185530782
+    },
+    "02497.JPEG": {
+        "gt_score": 3.9,
+        "logits": {
+            "invisible": 13.0859375,
+            "faint": 10.3359375,
+            "moderate": 7.80859375,
+            "visible": 9.4375,
+            "obvious": 5.9765625
+        },
+        "predict_score": 4.8581009577503655
+    },
+    "02498.JPEG": {
+        "gt_score": 4.2,
+        "logits": {
+            "invisible": 13.765625,
+            "faint": 9.5859375,
+            "moderate": 6.4609375,
+            "visible": 8.609375,
+            "obvious": 5.9140625
+        },
+        "predict_score": 4.965273983633141
+    },
+    "02499.JPEG": {
+        "gt_score": 4.8,
+        "logits": {
+            "invisible": 16.046875,
+            "faint": 7.671875,
+            "moderate": 4.33203125,
+            "visible": 5.94140625,
+            "obvious": 3.0625
+        },
+        "predict_score": 4.999621453362856
+    },
+    "02500.JPEG": {
+        "gt_score": 3.9,
+        "logits": {
+            "invisible": 15.203125,
+            "faint": 11.046875,
+            "moderate": 7.59765625,
+            "visible": 8.3828125,
+            "obvious": 6.125
+        },
+        "predict_score": 4.979955834457815
+    }
+}

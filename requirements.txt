@@ -1,0 +1,17 @@
+bitsandbytes==0.45.4
+decord==0.6.0
+deepspeed==0.16.0
+distro==1.9.0
+huggingface_hub==0.24.6
+icecream==2.1.4
+matplotlib==3.7.5
+numpy==1.24.4
+peft==0.13.2
+Pillow==11.1.0
+Requests==2.32.3
+scipy==1.15.2
+torch==2.4.1
+tqdm==4.66.5
+transformers==4.42.2
+triton==3.0.0
+wandb==0.16.6
