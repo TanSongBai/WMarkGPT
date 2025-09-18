@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 ## 🚀 Checkpoint&Dataset
 - Our **WMarkGPT inference model** is now available for public access. You can download the inference model at **[WMarkGPT-Synthetic](https://huggingface.co/TanSongBai/WMarkGPT-Synthetic)** and **[WMarkGPT-Real](https://huggingface.co/TanSongBai/WMarkGPT-Real)**.
-- The three visual question-answering (VQA) dataset we constructed can be downloaded from **[Google Drive](https://drive.google.com/drive/folders/1JoRq91b0UAbTU4SEblCycRVwCpUgkeg2)**. Then place the downloaded dataset on "./playground".
+- The three visual question-answering (VQA) datasets we constructed can be downloaded from **[Google Drive](https://drive.google.com/drive/folders/1JoRq91b0UAbTU4SEblCycRVwCpUgkeg2)**. Then place the downloaded dataset on "./playground".
 
 
 ## 🔨 Quick Start
